@@ -22,3 +22,6 @@ favourite retail brand in India and extract the following information:
 ![postman](https://user-images.githubusercontent.com/93968656/230027367-8fcf920a-282e-44df-849a-c6c2d31f0e67.png)
 ![Beautiful soup](https://user-images.githubusercontent.com/93968656/230027371-81f73993-5b5a-49bd-92d2-a8daf1555357.png)
 
+
+
+<img src="[pic.jpeg](https://user-images.githubusercontent.com/93968656/230027350-727dd0c4-65b7-4879-9192-83ed844dbb79.png)" width="100" height="100" /><img src="" width="100" height="100" />
