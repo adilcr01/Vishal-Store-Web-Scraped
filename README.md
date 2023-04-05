@@ -15,4 +15,10 @@ favourite retail brand in India and extract the following information:
 * Coordinates (Latitude/Longitude) (bonus)
 * Phone Number
 
+## Tech Stack Used
+
+![Python logo](https://user-images.githubusercontent.com/93968656/230027350-727dd0c4-65b7-4879-9192-83ed844dbb79.png)
+![GitHub-logo](https://user-images.githubusercontent.com/93968656/230027363-b7195ce0-50ac-488b-98cc-77d0b2af9e35.png)
+![postman](https://user-images.githubusercontent.com/93968656/230027367-8fcf920a-282e-44df-849a-c6c2d31f0e67.png)
+![Beautiful soup](https://user-images.githubusercontent.com/93968656/230027371-81f73993-5b5a-49bd-92d2-a8daf1555357.png)
 
