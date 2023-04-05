@@ -6,3 +6,13 @@ Vishal Mega Mart is India’s leading Fashion led hypermarket with 400+ stores s
 
 Vishal also delivers excellent quality products in fashion, food & grocery and general merchandise at great value through its exclusive brands available only at Vishal.
 
+## Assignment Prompt: Retail Store Location Scraper
+For this assignment, your task is to scrape the locations of your
+favourite retail brand in India and extract the following information:
+Store Name
+Address
+Timings
+Coordinates (Latitude/Longitude) (bonus)
+Phone Number
+
+
