@@ -1,0 +1,560 @@
+store_name,city_name,full_address,Coordinates(Longtude/Latitude),phone_no,store_timing
+ Vishal Mega Mart ,Central Delhi," Shop No 10209, 10210, Padam Singh Road, Near Pizza Hut, Karol Bagh, Central Delhi, Delhi 110005","28.648012,77.190996",0721 7887 958 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,South Delhi," Khirki Extension, Near Sant Nirankari Public School, Malviya Nagar, South Delhi, Delhi 110017","28.5346856,77.2185205",0995 3586 868 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,West Delhi," Main Market Rajouri Garden, Block H, H2, Rajouri Garden, West Delhi, Delhi 110027","28.6424381,77.1231081",0846 7004 041 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,North East Delhi," Bholanath Nagar Main Road, Bholanath Nagar, Near Ramleela Maidan, Shahadra, North East Delhi, Delhi 110032","28.6666937,77.286952",0728 9901 351 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,South Delhi," MCD No 1679, E/1,d/1,2/1679, Khasra No 19 Galli 19, Govindpuri Extension, Govindpuri, South Delhi, Delhi 110019","28.5341443,77.2598518",0721 7887 898 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,East Delhi," Main Road, Khichripur Village, Opposite Syndicate Bank, Kalyan Puri, East Delhi, Delhi 110091","28.6200336,77.3141057",0721 7888 084 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,South West Delhi," Red Lights Crossings, Mahipalpur, South West Delhi, Delhi 110037","28.5464968,77.1248465",0721 7888 392 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,North East Delhi," Shop No C-426, 100 Feet Road, Chhajju Colony, Durgapuri Chowk, Shahdara, North East Delhi, Delhi 110032","28.6892564,77.2873552",0721 7888 295 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,South West Delhi," Palam Sagarpur Road, Block F, Sadh Nagar 2, Sagarpur Delhi, Near Canara Bank, Manglapuri, South West Delhi, Delhi 110045","28.5930974,77.0948611",0931 1713 421 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,West Delhi," Shop No 1/1 Ground Floor, Block 1, Mall Road, Tilak Nagar, West Delhi, Delhi 110018","28.636198,77.0940125",0721 7888 393 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,South Delhi," Khasra No 436, 437, Deoli Roadm Khanpur, Khanpur, South Delhi, Delhi 110062","28.5124855,77.2325939",0721 7888 298 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,South West Delhi," KD Plaza, Ignou Road, Neb Sarai, Neb Sarai, South West Delhi, Delhi 110068","28.510246,77.201534",0828 7902 906 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,North West Delhi," Shop No FD-7, Near Pitampura Metro Station, Pitampura, North West Delhi, Delhi 110034","28.7029413,77.1331552",0721 7888 317 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,South West Delhi," Khasra No 75 Mahavir Enclave Part-1 D-2 Block, Tehsil, Nasirpur Road, Dwarka, Near HDFC Bank, Mahavir Enclave, South West Delhi, Delhi 110045","28.5988792,77.0817318",0721 7887 902 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ghaziabad," Ground Floor, Ansal Plaza, Sector-1, Vaishali, Ghaziabad, Uttar Pradesh 201010","28.644719,77.3328012",0721 7888 100 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,South West Delhi," 100 Feet Road, Near Nathu Sweets, Chattarpur, South West Delhi, Delhi 110074","28.5009246,77.1857872",0817 8807 035 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,West Delhi," 60 Feet Bindapur Road, Mahavir Enclave Part 3, Near Power House, Mahavir Enclave, West Delhi, Delhi 110059","28.60444,77.06863",0888 2646 888 ,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,South West Delhi," Ramphal Chowk, Sectore 7, Dwarka, Palam, South West Delhi, Delhi 110075","28.5848575,77.0716569",0721 7888 294 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,West Delhi," Shop No C-24, Shiksha Sadan, Vikash Puri, West Delhi, Delhi 110018","28.6348941,77.0691294",0721 7888 063 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,North West Delhi," Karawal Nagar Main Road, Near Shiv Vihar Tiraha, Karawal Nagar, North West Delhi, Delhi 110081","28.7246615,77.2761025",0870 0277 434 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ghaziabad," Plot No 367, 72A Road, Khora Road, Deepak Vihar, Ghaziabad, Uttar Pradesh 200301","28.6107789,77.3542369",0721 7887 894 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,South Delhi," Mehrauli-Badarpur Road, Near Lal Kaun Bus Stand, Pul Pahladpur, South Delhi, Delhi 110044","28.5023145,77.2840019",0888 2462 783 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,West Delhi," 50 Feet Road, Nihal Vihar, Adjacent Rajindra PubLIC School, Nangloi, West Delhi, Delhi 110041","28.6687973,77.0747393",0931 1000 050 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,North Delhi," 100 Feet Road, Main Sant Nagar, Opposite Bhagat Colony Gate, Burari, North Delhi, Delhi 110084","28.7439774,77.197884",0721 7887 901 ,07:00 AM to 07:00 PM
+ Vishal Mega Mart ,North West Delhi," Khasra No 350-361 to 361 Min, Mangol Pur, North West Delhi, Delhi 110083","28.6925633,77.0890028",0721 7887 900 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,West Delhi," Shop No G-1/156, Najafgarh Road, Opposite Metro Pillar No 677, Uttam Nagar, West Delhi, Delhi 110059","28.6225623,77.0584314",0721 7888 387 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,West Delhi," Main Rohtak, Opposite to BSES Office, Nangloi, West Delhi, Delhi 110041","28.681941,77.0704433",0721 7888 318 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ghaziabad," Shakti Khand 2, Adjacent to Cambridge School Gate No 2, Indirapuram, Ghaziabad, Uttar Pradesh 201014","28.6466952,77.3638127",0821 8442 899 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,South West Delhi," CH Nanda Singh Marg, Amberhai Village, Dwarka Sector 19, Near Vardhman Mall, Dwarka, South West Delhi, Delhi 110075","28.5772616,77.0500768",0782 7994 895 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ghaziabad," Floor No 27, Sector-5, Sahibabad Rajendra Nagara, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201005","28.6779829,77.3572341",0721 7887 980 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,North Delhi," Garg Trade Centre, Sector - 11, Rohini, North Delhi, Delhi 110085","28.734484,77.11393",0721 7888 090 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,South Delhi," Allahabad Bank, Jaitpur Road, Near LUV Kush Chowk, Badarpur, South Delhi, Delhi 110044","28.5048186,77.3211839",0721 7887 904 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gautam Buddha Nagar," Sec 65-66 Dividing Road, Mamura, Sec- 66 Noida, Near Power Station, Noida, Gautam Buddha Nagar, Uttar Pradesh 201301","28.6094196,77.3777173",0931 5466 990 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gurugram," Plot No 420, Old Delhi-Gurgaon Road, Dundahera Village, Sector 20, Gurugram, Haryana 122016","28.5132204,77.0759632",0721 7888 047 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,North West Delhi," 40 Feet Road, Near RC Plaza, Kirari, North West Delhi, Delhi 110086","28.6959343,77.0583041",0817 8024 069 ,09:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gautam Buddha Nagar," Sector 49 Barola Village, Link Road, Near Sector 78 Metro Statio, Noida, Gautam Buddha Nagar, Uttar Pradesh 201303","28.5557219,77.3775034",0931 5913 438 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,West Delhi," Najafgarh Road, Opposite Metro Pillar 803, Kakrola More, West Delhi, Delhi 110059","28.6194177,77.0264627",0999 9318 647 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ghaziabad," Plot No 12-14, Ksn Square, Sector 3, Near Beta Corporate Tower, Vasundhara, Ghaziabad, Uttar Pradesh 201012","28.666696,77.382742",0721 7888 239 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gautam Buddha Nagar," RR Shopix Gejha Road, Sector 110, Near Bhangel Police Chowki, Noida, Gautam Buddha Nagar, Uttar Pradesh 201304","28.5402641,77.3875168",0721 7888 365 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,South West Delhi," Charamandi, Near Hanuman Mandir, Nazafgarh, South West Delhi, Delhi 110043","28.6126577,76.9893686",0721 7888 291 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Faridabad," Pristine Mall N Multiplex, Hsiidc Internal Road Huda Market Inder Colony, Sector 31, Faridabad, Haryana 121003","28.4453055,77.3156667",0721 7888 138 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,South West Delhi," New Roshanpura-Gurgaon Road, Near Roashanpura Bus Stand (Najafgarh), Najafgarh, South West Delhi, Delhi 110043","28.6061384,76.9863519",0935 4938 579 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gurugram," Shop No 9, 10, 11, 12, Old Delhi, Gurgaon Road, Near Payal Cinema, Sector 14, Gurugram, Haryana 122001","28.4780259,77.0467086",0721 7888 059 ,08:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ghaziabad," Lower Ground Floor, LA Gracia, Crossings Republik, Nai Basti Dundahera, Ghaziabad, Uttar Pradesh 201016","28.6319465,77.4343989",0721 7888 278 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ghaziabad," GT Road, Model Town, Gandhi Nagar, Model Town, Near Tehsil, Daulatpura, Ghaziabad, Uttar Pradesh 201001","28.6526536,77.4383855",0987 1810 373 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ghaziabad," Vvip Style Mall, Nh 58 Bypass, Raj Nagar Extn, Ghaziabad, Uttar Pradesh 201017","28.6970575,77.4290388",0721 7888 241 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gurugram," Railway Station Road, Daultabadh Mor, Laxman Vihar Industrial Area, Adjacent Bharat Petrom Pump, Sector 3a, Gurugram, Haryana 122001","28.4846478,77.0126221",0931 1713 417 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ghaziabad," Shop No 6/3, South Side Silver City Multiplex, Grand Trunk Road, Sector 13, Lal Kuan, Ghaziabad, Uttar Pradesh 201001","28.6392689,77.4564085",0721 7887 989 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ghaziabad," Plot No 16, Block P, Duplex Flats, Sector 23, Sanjay Nagar, Shastri Nagar, Ghaziabad, Uttar Pradesh 201002","28.6865059,77.4523322",0721 7888 177 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gurugram," Khandsa Road, Near Sunrise Hospital, Sector 10A, Gurugram, Haryana 122021","28.4431419,77.0109031",0721 7888 400 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Faridabad," House No 1, Shop No C-52, 1C-51 and 1-C77, New Industrial Town, Faridabad, Haryana 121001","28.3821389,77.3029744",0721 7888 045 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gautam Buddha Nagar," Khata No 425, Khasra No 18K, Surajpur Dadri Raod, Near HDFC Bank, Greater Noida, Gautam Buddha Nagar, Uttar Pradesh 201306","28.5153703,77.4719764",0828 7515 543 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ghaziabad," Shop No 22, Block I, Block E, Main Shatabdipuram Road, Shatabdi Puram, Govindpuram, Ghaziabad, Uttar Pradesh 201013","28.6923106,77.4920757",0767 8272 443 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gurugram," Khasra No 95/13, Village-Badshahpur, Tehsil, Gurugram, Haryana 122101","28.3902769,77.0499765",0721 7887 910 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,North West Delhi," Main Safiabad Road, Beside JS Automobiles, Narela, North West Delhi, Delhi 110040","28.8567693,77.0884744",0721 7888 389 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gautam Buddha Nagar," Basement 1, Omaxe Mall, Connaught Place, Greater Noida, Gautam Buddha Nagar, Uttar Pradesh 201310","28.4884283,,77.5139285",0783 8025 797 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gautam Buddha Nagar," GB Nagar, Ram Vatika Colony, Near Bhagwati Nursing Home, Dadri, Gautam Buddha Nagar, Uttar Pradesh 203207","28.5470339,77.5455674",0888 2206 955 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Jhajjar," Jhajjar Road, Near Old Bus Stand, Daboda Khurd, Jhajjar, Haryana 124507","28.6636144,76.8300642",0721 7888 342 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gurgaon," Kasan Road, Near Manesar Bus Stand, Manesar, Gurgaon, Haryana 122051","28.3552284,76.935666",0965 4282 143 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gurgaon," Alwar Road, Near Bus Stop, Gahlot Vihar, Adjacent Indian Bank, Sohna, Gurgaon, Haryana 122103","28.2437604,77.0721544",0971 7516 236 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Sonipat," Shop No 20R, 20I, 207R, Atlas Road, Model Town, Sonipat, Haryana 131001","28.9878717,77.0206877",0721 7887 915 ,08:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ghaziabad," Shop No 817/165, Santpura, Opp Govindpuri Police Chowki, Modinagar, Ghaziabad, Uttar Pradesh 201201","28.8555308,77.5903069",0721 7888 191 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gurgaon," Hailey Mandi Road, Opposite SBI Bank, Pataudi, Gurgaon, Haryana 122503","28.3302765,76.7761547",0830 7459 243 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Faridabad," Railway Road, Minar Gate Area, Near Minar Gate, Palwal, Faridabad, Haryana 121102","28.1424441,77.3277453",0721 7888 343 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bagpat," RK Plaza, Patti Mehar Badoli Road, Baraut, Bagpat, Uttar Pradesh 250611","29.0978979,77.2599145",0828 7515 535 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ghaziabad," Free Ganj Road, Opposite Smt Kamla Agarwal PubLIC School, Hapur, Ghaziabad, Uttar Pradesh 245101","28.7347263,77.7748391",0721 7642 215 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Alwar," Lower Ground Floor, V Square Mall, Near Genesis Mall, Bhiwadi, Alwar, Rajasthan 301019","28.1943802,76.8124572",0931 5913 445 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Meerut," Shop No 1372-A, Dreemz, Garh Road, Opposite Hotel Samrat Heavens, Tejgarhi, Meerut, Uttar Pradesh 250004","28.9673879,77.7291686",0721 7887 990 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Meerut," CCS University Road, Apex Tower, Mangal Pandey Nagar, Meerut, Uttar Pradesh 250004","28.968205,77.7366167",0870 0280 140 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Meerut," Sardhana Road, Kankarkhera, Near Shiv Chowk, Shradhapuri Phase 1, Meerut, Uttar Pradesh 250001","29.0257769,77.6855575",0725 3000 600 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bulandshahr," Building No 540, Ward No 21, Lalla Babu Chauraha, Raje Babu Road, Laxmi Nagar, Bulandshahr, Uttar Pradesh 203001","28.4014288,77.8495292",0721 7888 481 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Rohtak," Shop No 136/22, D S Plaza, Sonipat Road, Vikas Nagar, Rohtak, Haryana 124001","28.8961899,76.6023594",0721 7887 919 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Meerut," CP Pocket, Radha Garden, Near LIMT Collage, Ganga Nagar, Meerut, Uttar Pradesh 250001","29.00149,77.7583263",0931 5913 440 ,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,Meerut," Plot No C-10, C-11 and C12, Pocket-J, Pallavpuram Phase-1, Pallavpuram, Meerut, Uttar Pradesh 250001","29.0583578,77.7087215",0971 8727 052 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Rewari," SCO No 121, 121-A and 122, Brass Market, Rewari, Haryana 123401","28.1909479,76.6123566",0124 4555 100 ,09:00 AM to 06:30 PM
+ Vishal Mega Mart ,Bulandshahr," AT Hotel, Vinayak, Old Gt Road, Khurja, Bulandshahr, Uttar Pradesh 203131","28.2380585,77.8640196",0859 5917 998 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Panipat," GGS Complex, Near Anaj Mandi, GT Road, Opposite Raj Overseas, Krishanpura, Panipat, Haryana 132103","29.3670897,76.9760097",0931 5478 947 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Muzaffarnagar," Muzaffar Nagar Road, Near Saharanpur Tiraha, Shamli, Muzaffarnagar, Uttar Pradesh 247776","29.4546888,77.326382",0859 5939 577 ,08:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bhiwani," Shop No Y-1609, Bhiwani - Hansi Road, Vijay Nagar, Bhiwani, Haryana 127021","28.80154,76.1343317",0721 7888 044 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Muzaffarnagar," Grand Plaza, Ground Floor, Bhopa Road, Dwarika Puri, Muzaffarnagar, Uttar Pradesh 251001","29.4731348,77.7150733",0721 7887 943 ,08:00 AM to 09:00 PM
+ Vishal Mega Mart ,Aligarh," GT Road, Hari Vilas Nagar, Joshi Park, Industrial Estate, Aligarh, Uttar Pradesh 202001","27.9003917,78.0557786",0782 7027 513 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Aligarh," Sodhi&#39;s Complex-2, Ramghat Road, Kishan Pur Tiraha, Begpur, Aligarh, Uttar Pradesh 202001","27.8959912,78.0905028",0721 7887 976 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Aligarh," Etah Chungi, Near Vaishno Dham Colony, Dhanipur, Aligarh, Uttar Pradesh 202002","27.8741623,78.0980896",0730 0659 641 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Karnal," Shop No 551, Plot, No 8, Kunjpura Road, Avtar Colony, Karnal, Haryana 132022","29.6916498,76.9929225",0721 7888 051 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bijnor," Neel Kamal Road, Punjabi Colony, Near Srs Cinema Civil Lines, Bukhara, Bijnor, Uttar Pradesh 246701","29.3737324,78.1406874",0914 9255 958 ,08:00 AM to 09:00 PM
+ Vishal Mega Mart ,Mainpuri," Krishna Complex Joya Road 1255, Mauja Auden Padariya, Amroha, Mainpuri, Uttar Pradesh 205001","28.8840059,78.4701904",0896 0902 937 ,08:00 AM to 09:00 PM
+ Vishal Mega Mart ,Alwar," Krishna Trade Tower, Jai Marg, Near Aravali Toyota Showroom, Lajpat Nagar, Alwar, Rajasthan 301001","27.5673218,76.6188759",0935 4575 134 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Mathura," Killa No 26/2-26/4, Khasra No 369, Krishna Nagar, Mathura, Uttar Pradesh 281001","27.5012791,77.6561006",0721 7888 175 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Mathura," SBI Chowk, Hathras - Mathura Road, Near SBI Circle, Dampier Nagar, Mathura, Uttar Pradesh 281001","27.4893061,77.6793807",0928 9293 682 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Moradabad," Moradabad Road, Begum Sarai, Near SDM Court, Sambhal, Moradabad, Uttar Pradesh 244302","28.5872213,78.579052",0931 1955 757 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Moradabad," Madhubani Complex, Himgiri Colony Road, Adarsh Colony, Moradabad, Uttar Pradesh 244001","28.8643041,78.7488163",0999 7684 079 ,08:00 AM to 09:00 PM
+ Vishal Mega Mart ,Saharanpur," Shop No 2A/28, Banka Complex, Court Road, Mission Compound, Saharanpur, Uttar Pradesh 247001","29.9574023,77.5465751",0721 7888 242 ,08:00 AM to 09:00 PM
+ Vishal Mega Mart ,Hisar," Suncity Mall, Delhi Road, Industrial Area, Hisar, Haryana 125001","29.1333637,75.75159",0721 7888 140 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Saharanpur," Ambala Road, Near Thana Qutubsher, Subhash Nagar, Saharanpur, Uttar Pradesh 247001","29.9668405,77.5410142",0892 0464 884 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Moradabad," Railway Road, Mahavir Chowk, Opposite Sale Tax Office, Chandausi, Moradabad, Uttar Pradesh 244412","28.455746,78.777822",0989 7384 994 ,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,Bijnor," Jalalabad Road, Opposite Krishna Nursing Home, Najibabad, Bijnor, Uttar Pradesh 246763","29.6029515,78.3286263",0969 5884 770 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kurukshetra," Arora Palace, Near New Bus Stand, Dd Colony, Kurukshetra, Haryana 136118","29.9739894,76.8633556",0721 7888 345 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Haridwar," Shop No 39/343, Civil Lines, National Highway 73, Near BSNL Office, Roorkee, Haridwar, Uttarakhand 247667","29.8742655,77.8937398",0721 7888 017 ,08:00 AM to 09:00 PM
+ Vishal Mega Mart ,Etah," SB Plaza, Main Market, Nadrai Gate, Kasganj, Etah, Uttar Pradesh 207123","27.8069995,78.6448552",0124 4555 100 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Haridwar," Old Ranipur More, Adjacent Aakash Institute, Vikas Colony, Govindpuri, Devpura, Haridwar, Uttarakhand 249401","29.936666,78.140083",0931 1955 760 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gurgaon," Civil Lines Road, Near Town Hall, Jagadhri, Gurgaon, Haryana 122003","30.1678607,77.2992166",0836 0385 845 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Agra," Shop No 15, Sikandra-Bodla Road, Sector 9, Sulabh Puram Colony, Near Kargil Petrol Pump, Lohamandi, Agra, Uttar Pradesh 282007","27.2018076,77.9538678",0859 5918 012 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Agra," Gate No 537-538, Bhagwan Talkies Crossing, Sanjay Nagar, Pashupati Colony, Near Tulsi Cinema, Khandari, Agra, Uttar Pradesh 282005","27.2111807,78.0018939",0721 7888 104 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Rampur," Kothi Khas Bagh Road, Opposite ICICI Bank, Gayatri Puram Colony, Rampur, Uttar Pradesh 244901","28.7945636,79.0171931",0721 7887 945 ,08:00 AM to 09:00 PM
+ Vishal Mega Mart ,Pauri Garhwal," Devi Road, Opposite Hp Petrol Pump, Kotdwar, Pauri Garhwal, Uttarakhand 246149","29.7436585,78.5129932",0995 3471 046 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Agra," Shop No 25/26, 1-2, Fatehabad Road, Tajganj, Near Shanti Manglik Hospital, Rakabganj, Agra, Uttar Pradesh 282001","27.1574341,78.0550065",0721 7888 167 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Udham Singh Nagar," SRS Mall, Ground Floor, Ratan Cinema Road, Kashipur, Udham Singh Nagar, Uttarakhand 244713","29.213237,78.959941",0721 7888 158 ,08:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ambala," Shop No 167, Palledar Mohalla, Rai Market Road, Football Chowk, Vijay Ratan Chownk, Sadar Bazar, Oppostite Rama Building, Ambala Cantt, Ambala, Haryana 133001","30.3396613,76.8386234",0701 5672 032 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Dehradun," Dehradun Road, Adarsh Gram, Near TVS Showroom, Rishikesh, Dehradun, Uttarakhand 249201","30.1153623,78.2900273",0971 1836 121 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Budaun," Indra Chowk, Civil Lines, Opposite ICICI Bank, Arifpur Nawada, Budaun, Uttar Pradesh 243601","28.0304,79.13243",0701 7571 619 ,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,Ambala," Jaggi Complex, Model Town Crossing, RTC Bus Stand, Near HDFC Bank, Prem Nagar, Ambala, Haryana 134003","30.3678469,76.7875416",0782 7940 205 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Firozabad," Station Road, Islam Ganj, Suhag Nagar, Firozabad, Uttar Pradesh 283203","27.153102,78.3903342",0721 7888 477 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Dehradun," Jogiwala, Shastri Nagar, Opposite Kailash Hospital, Ajabpur Kalan, Dehradun, Uttarakhand 248001","30.2884866,78.0629267",0931 1956 924 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Dehradun," Bharat Square, Near Lal Pul, Shakti Enclave, Opposite Doon Castle Dehradun, Patel Nagar, Dehradun, Uttarakhand 248001","30.3071464,78.0151706",0124 4555 100 ,08:00 AM to 11:00 PM (Closing Soon) 
+ Vishal Mega Mart ,Dehradun," Chakrata Road, Near Nanda Ki Chowki, Prem Nagar, Dehradun, Uttarakhand 248035","30.3433383,77.9540344",0721 7887 944 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Sirmaur," Shamsherpur, Near ITI College, Ponta Sahib, Sirmaur, Himachal Pradesh 173025","30.4412414,77.612219",0721 7888 311 ,08:00 AM to 09:00 PM
+ Vishal Mega Mart ,Patiala," SCO 101 and 102, Leela Bhawan, Ajit Nagar, Patiala, Punjab 147001","30.3348636,76.3836885",0721 7887 968 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Dehradun," Shop No 52A and 52B, Rajpur Road, Dilaram Bazar, Chironwali, Dehradun, Uttarakhand 248001","30.3368254,78.0565647",0721 7888 275 ,08:00 AM to 11:00 PM (Closing Soon) 
+ Vishal Mega Mart ,Shikohabad," Shop No 843 K, Moja Mohamdabad URF, Station Road, Opposite Sagar Enclave Colony, Brij Enclave Colony, Shikohabad, Uttar Pradesh 205135","27.0954669,78.579828",0828 7515 546 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Udham Singh Nagar," Sgad Complex, Bareilly - Nainital Road, Civil Lines, Rudrapur, Udham Singh Nagar, Uttarakhand 263153","28.9819751,79.3992485",0721 7888 274 ,08:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bareilly," Shop No 85 D, JJ Mall, Ayub Khan - Choupla Road, Civil Lines, Bareilly, Uttar Pradesh 243001","28.3544111,79.416885",0721 7887 983 ,08:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bareilly," Deen Dayal Puram, Opposite LIC Office, Deen Dayal Puram, Bareilly, Uttar Pradesh 243005","28.3811019,79.4291135",0931 1713 431 ,08:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bareilly," Pilibhit Bypass Road, Near Sattelite Bus Sand, Civil Lines, Bareilly, Uttar Pradesh 243001","28.3547339,79.4466686",0962 5215 623 ,08:00 AM to 09:00 PM
+ Vishal Mega Mart ,Patiala," Circular Road, Opposite Juneja Petrol Pump, Nabha, Patiala, Punjab 147201","30.3699816,76.1441495",0700 6333 428 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Sangrur," Dhuri Bypass, Opposite Naina Devi Madir, Dhuri, Sangrur, Punjab 148024","30.2490329,75.837652",0721 7888 397 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Patiala," Apple Height, VIP Road, Zirakpur, Patiala, Punjab 140603","30.637371,76.813881",0828 7947 036 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Jaipur," Block-1, Sector-5, Main Sikar Road, Vidhyadhar Nagar, Jaipur, Rajasthan 302013","26.9697067,75.7732298",0721 7888 151 ,08:00 AM to 07:30 PM
+ Vishal Mega Mart ,Jaipur," Plot No 1, Elevated Ajmer Road, Opposite Government Hostel, Gopalbari, Jaipur, Rajasthan 302006","26.9171308,75.8005335",0721 7888 147 ,08:00 AM to 08:00 PM
+ Vishal Mega Mart ,Panchkula," SCO No 104 and 105, Sector 5, Sector 5, Panchkula, Haryana 134113","30.7004084,76.8569162",0721 7887 918 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Mainpuri," Shop No 1255, Mauja - Auden Padariya, Karhal Choraha, Near Pushkar Talkies, Agrawal Mohalla, Mainpuri, Uttar Pradesh 205001","27.2188556,79.023982",0931 5477 768 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Nainital," Pritam Tower, Nainital Road, Vaishali Colony, Opposite Naini Valley School, Bhotia Parao, Nainital, Uttarakhand 263126","29.2413523,79.5352532",0721 7888 273 ,08:00 AM to 09:00 PM
+ Vishal Mega Mart ,Pauri Garhwal," Bhadrintha Margh, Gahad Lagga Gawana, Srikot, Opposite Medical College, Srinagar, Pauri Garhwal, Uttarakhand 246174","30.22676,78.82166",0863 0493 194 ,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,Fatehgarh Sahib," Bassir Road, Shamsher Nagar, Near Aam Khas Bagh, Sirhind, Fatehgarh Sahib, Punjab 140406","30.6326412,76.3912371",0828 7947 136 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Jaipur," Ever Shine Tower, Amrapali Circle, Vaishali Nagar, Jaipur, Rajasthan 302021","26.9113,75.743297",0721 7888 097 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Rupnagar," SCO No 3, Phase-5, Mohali, Sas Nagar, Rupnagar, Punjab 160055","30.7140445,76.7111493",0993 5929 286 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Jaipur," Gandhi Path Road, Nemi Nagar, Opposite Neelkanth Ivf Hospital, Sanjay Nagar, Jaipur, Rajasthan 302021","26.9056841,75.742038",0870 0279 624 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Jaipur," Gopalpura Bypass Road, Gangaram Nagar, Shri Gopal Nagar, Near Canara Bank Jaipur, Arjun Nagar, Jaipur, Rajasthan 302020","26.8768528,75.7731132",0962 5215 640 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Jaipur," Tonk Road, Mahaveer Nagar, Adjacent Jaipur Hospital, Mahaveer Nagar, Jaipur, Rajasthan 302018","26.8576138,75.795052",0772 8864 028 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Rupnagar," Kharar-Landran Road, Opposite Shivalik City Gate No 1, Kharar, Rupnagar, Punjab 140307","30.7286141,76.6493329",0931 5504 329 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Panchkula," Ramnagar Kalka, Pinjore, Near Police Station, Kalka, Panchkula, Haryana 133302","30.8219182,76.9234723",0124 4555 100 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Sangrur," Plot No 1, Dis Truck Union Chowk, Thandi Sadak, Somsons Colony, Malerkotla, Sangrur, Punjab 148023","30.5149096,75.8852717",0931 5474 675 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Rewa," Adjacent Ganga Public School, Dattpura, Morena, Near Gopinath ki Pulia, Huzur, Rewa, Madhya Pradesh 486001","26.500742,77.998591",0,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,Ludhiana," Grand Trunk Road, City Tower, Near Bus Stand, Khanna, Ludhiana, Punjab 141401","30.700698,76.2288141",0721 7888 396 ,09:00 AM to 05:30 PM
+ Vishal Mega Mart ,Pilibhit," Bypass Road, Next to Nirmal Tvs Showroom, Near Chhatri Chowk, Ballabh Nagar Colony, Pilibhit, Uttar Pradesh 262001","28.6203277,79.8091848",0626 0075 630 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Solan," Mall Road, Near Anand Cinema Complex, Lawi Khurd, Solan, Himachal Pradesh 173212","30.9095108,77.1003526",0721 7888 403 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Almora," LR Shah Road Jagannath Talkies, Dharanaula, Almora, Uttarakhand 263601","29.6014388,79.6631624",0782 7940 197 ,08:00 AM to 09:00 PM
+ Vishal Mega Mart ,Solan," Doon Metro Mall, the Nalagarh - Sai Road, Village Guler Wala, Baddi, Solan, Himachal Pradesh 173205","30.9503616,76.8097316",0721 7888 408 ,08:00 AM to 08:00 PM
+ Vishal Mega Mart ,Rupnagar," Bela Road, Village Shampura, Near HMT Resort, Shampura, Rupnagar, Punjab 140001","30.9559141,76.5126923",0752 9000 118 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Farrukhabad," Fatehgarh Road, Near Badri Vishal College, Devrampur, Farrukhabad, Uttar Pradesh 209601","27.385381,79.590858",0721 7888 248 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Farrukhabad," Bevar Road, Bholepur, Farrukhabad, Uttar Pradesh 209602","27.3715764,79.6077887",0931 5961 621 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Shimla," Moon International Hotel Complex, Near HP Secretriat, Chotta Shimla, Shimla, Himachal Pradesh 171002","31.0882765,77.1823504",0721 7888 409 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Shimla," Near Dhalli Tunnel, Opposite Post Office, Sanjauli, Shimla, Himachal Pradesh 171006","31.1030547,77.1993131",0721 7887 998 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gwalior," Bohdapur Road, Near Bharat Petroleum, Transport Nagar, Gwalior, Madhya Pradesh 474010","26.2342742,78.1470075",0995 3785 604 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bathinda," Hazi Rattan, National Highway 64, Near State Bank of Patiala, Guru Ki Nagri, Bathinda, Punjab 151001","30.1965697,74.947978",0721 7888 230 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gwalior," Pinto park, Near Darshan Petrol Pump, Gayatri Nagar, Gwalior, Madhya Pradesh 474005","26.24654108,78.2171652",0,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,Ludhiana," Dhandran Road, Hp Petrol Pump, Janta Enclave, Ludhiana, Punjab 141013","30.8579885,75.8398774",0817 8024 162 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gwalior," Shop No M-12, Ground Floor, Kherapati Colony, Gwalior, Madhya Pradesh 474002","26.2175135,78.171064",0782 7933 967 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gwalior," Ground Floor, Thatipur Main Road, Gird, Gwalior, Madhya Pradesh 474011","26.2050458,78.1621389",0782 7925 820 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gwalior," Shop No C-5, Opposite Hotel Central Park, City Center, Gwalior, Madhya Pradesh 474009","26.2111211,78.1871998",0721 7887 949 ,08:00 AM to 06:00 PM
+ Vishal Mega Mart ,Ludhiana," SCO No 4, 5, 6, Chandigarh Road, Near Vardhman Mill, Sector 32A, Ludhiana, Punjab 141001","30.9064258,75.8935601",0721 7888 384 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ludhiana," Euphoria Tower, 2435, Ferozpur Road, Maharaj Nagar, Ludhiana, Punjab 141001","30.898132,75.8196279",0721 7887 938 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Nawanshahr," Kahatoni No-25, Garhshankar-Nawanshahr Road, Near Rampa Bajaj Auto, Garshankar, Nawanshahr, Punjab 144514","31.1403919,76.1210633",0721 7888 258 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bilaspur," Purnam the Mall, Court Road, Cinema Colony, Kosrian Sector, Bilaspur, Himachal Pradesh 174001","31.3401081,76.7646957",0828 7947 153 ,09:00 AM to 09:00 PM
+ Vishal Mega Mart ,Pithoragarh," Jhoolaghat Road, Bin Patti Mahar, Near APS Chowk, Bin Pitthoragarh, Pithoragarh, Uttarakhand 262501","29.578921,80.2321794",0827 9862 194 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Moga," Sunny Tower, Friends Colony, Near Town Hall Main Bazar, Friends Colony, Moga, Punjab 142001","30.8183333,75.1726272",0721 7888 256 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kannauj," Markand Nagar, Mauja Yusufpurb Bhagwan, Near Narayan Cinema, Makrand Nagar, Kannauj, Uttar Pradesh 209725","27.0478374,79.9108128",0817 8807 961 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Hardoi," Chungi, Near Lucknow Chungi, Industrial Area, Hardoi, Uttar Pradesh 241001","27.3859569,80.1351788",0817 8806 402 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kapurthala," Grand Trunk Road, Near Bus Stand, Phagwara, Kapurthala, Punjab 144401","31.2204351,75.7687901",0721 7888 255 ,08:00 AM to 09:00 PM
+ Vishal Mega Mart ,Faridkot," Circular Road, Kamiana, Near Dolphin Chowk, Ajit Nagar, Faridkot, Punjab 151203","30.66968,74.754159",0124 4555 100 ,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,Una," Near DC Office, Opposite Krishi Bhawan, Badsala, Una, Himachal Pradesh 174303","31.4668904,76.2613248",0935 4575 158 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Auraiya," Kanpur Road, Brahm Nagar, Near HDFC Bank, Hashmat Nagar, Auraiya, Uttar Pradesh 206122","26.4587112,79.5132034",0931 1713 411 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Hamirpur," Kashmiri Tower, Hamirpur - Kangra Road, Pakka Bharo, Hamirpur, Himachal Pradesh 177001","31.5531343,76.614761",0962 5215 646 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Muktsar," Bhullar Colony, Kotkapura Road, Near HDFC Bank, Sri Muktsar Sahib, Muktsar, Punjab 152026","30.4764397,74.5270949",0721 7887 973 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Jalandhar," Shakti Tower Swani Motors Bmc Chowk, Bmc Chowk, Jalandhar, Punjab 144001","31.3171494,75.588274",0721 7888 359 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Firozpur," Old Fazilka Road, Opposite New Grain Market, Abohar, Firozpur, Punjab 152116","30.1551676,74.1931297",0721 7887 939 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Jalandhar," Kapurthala Road, Chowk, Near Joshi Hospital, Adarsh Nagar, Jalandhar, Punjab 144001","31.3342622,75.5636886",0887 2012 221 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Mandi," College Road, Mangvayin, Mandi, Himachal Pradesh 175001","31.7011048,76.9349767",0721 7888 435 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ajmer," Jaipur Road, Police Lines, Ramganj, Ajmer, Rajasthan 305001","26.4782846,74.657589",0124 4555 100 ,08:00 AM to 09:00 PM
+ Vishal Mega Mart ,Hoshiarpur," Shop No 202/203 Model Town, Bus Stand Road, Model Colony, Hoshiarpur, Punjab 146001","31.5352728,75.9038728",0721 7888 145 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ganganagar," Block 9C, Ravinder Path, Sri Ganga Nagar, Near Birbal Chowk, Birbal Chowk, Ganganagar, Rajasthan 335001","29.9272737,73.8748707",0721 7888 269 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kheri," Mohalla Sankata Devi, Mela Maidan Road, Khaprel Bazar, Opposite Basant Cinema, Lakhimpur, Kheri, Uttar Pradesh 262701","27.9501772,80.7773507",0721 7888 245 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Sitapur," Bus Stand Road, Near Rajasthani Hotel, Munshigunj, Sitapur, Uttar Pradesh 261001","27.5839037,80.666356",0782 7954 735 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Firozpur," Malwal Road, Cantonment Area, Firozpur, Punjab 152002","30.917004,74.599485",0721 7888 262 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Jalaun," Gandhi Nagar, Near Moni Baba Mandir, Orai, Jalaun, Uttar Pradesh 285001","25.9832482,79.452145",0817 8024 166 ,09:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kanpur," Kalyanpur-Vijay Nagar Road, Awas Vikas Ambedkar Puram, Kalyanpur, Kanpur, Uttar Pradesh 208017","26.4898087,80.2522077",0931 5475 379 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Tarn Taran," Amritsar Road, Guru Teg Bahadur Nagar, Opposite Power House, Bahadur Nagar, Tarn Taran, Punjab 143401","31.4599021,74.9216406",0931 1713 415 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bikaner," Shiv Shakti Mall, Dak Bangla, Daga Maidan, Dhobi Talai, Bikaner, Rajasthan 334001","28.0131275,73.3150239",0721 7888 268 ,08:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kanpur," Shop No 111, 18A, GT Road, Near Hanuman Mandir, Sarvodaya Nagar, Kanpur, Uttar Pradesh 208002","26.4744808,80.3118568",0721 7888 265 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kanpur," Govind Nagar, Near Regency Hospital, Govind Nagar, Kanpur, Uttar Pradesh 208006","26.4471462,80.317108",0782 7933 964 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kanpur," Shop No 3/2C, the Mall Road, Noronha Crossing, Canal Patri, Kanpur, Uttar Pradesh 208001","26.4626923,80.3594119",0782 7943 414 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kanpur," Gopinath Puram, Besides Kailash Vatika, Shuklaganj, Kanpur, Uttar Pradesh 209861","26.4823984,80.3891603",0842 9173 401 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kangra," Palampur Road, Berachah, Palampur, Kangra, Himachal Pradesh 176061","32.1050733,76.5338667",0962 5215 629 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Jhansi," Shop No 101, Kanpur Road, Near Bus Stand, Jalpora, Jhansi, Uttar Pradesh 284001","26.4132951,80.3395492",0790 6258 787 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kanpur," Lal Bangla Road, Lal Bangla Street, Near Lal Bangla Police Chowki, Charari, Kanpur, Uttar Pradesh 208007","26.424543,80.3878825",0931 1713 419 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kangra," Bali Complex College Road Chowk, Near Tehsil, New Kangra, Kangra, Himachal Pradesh 176001","32.1051894,76.273499",0721 7888 314 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ajmer," Railway Station Road, National Highway 8, Inside Modi City Centre, Beawar, Ajmer, Rajasthan 305901","26.1045563,74.3123088",0721 7888 272 ,07:00 AM to 08:00 PM
+ Vishal Mega Mart ,Gurdaspur," Jal andhar Road, Shastri Nagar, Batala, Gurdaspur, Punjab 143505","31.819198,75.2072446",0721 7888 379 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kota," Kotri Road, Opposite to Hotel Celebration, Gumanpura, Kota, Rajasthan 324007","25.1769504,75.8520625",0721 7888 098 ,07:00 AM to 08:30 PM
+ Vishal Mega Mart ,Amritsar," SCO No 126 and 127, Block B, Public School, Ranjit Avenue, Near Khalsa College, Ranjit Avenue, Amritsar, Punjab 143001","31.6553369,74.862825",0721 7888 351 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Amritsar," GT Road, Marwah Marble, Area Kala Ghanupur, Cherrata Road, Modern Colony, Amritsar, Punjab 143001","31.6293267,74.8077527",0782 7933 353 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Lucknow," Dubagga Chouraha, Opposite TV Tower, Dubagga, Lucknow, Uttar Pradesh 226017","26.8740682,80.8640511",0782 7943 408 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Lucknow," Victoria Street, Tulsi Das Marg, Near Chowki Patanala Nakhass, Nakhas, Lucknow, Uttar Pradesh 226003","26.8618396,80.9089157",0721 7888 189 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Lucknow," Sitapur Road, Near Purania Flyover, Aliganj, Lucknow, Uttar Pradesh 226021","26.8999929,80.9387816",0993 5279 092 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Lucknow," Sitapur Road, Sector B, Near Engineering College Chauraha, Aliganj, Lucknow, Uttar Pradesh 226021","26.9105446,80.94828",0817 8808 962 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Lucknow," Kanpur Road, Near Bachpan School, Vijay Nagar, Lucknow, Uttar Pradesh 226023","26.7941806,80.8868832",0993 6077 766 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Lucknow," Shop No 551, JHA 32B-C, Kanpur - Lucknow Road, Ram Nagar, Alambagh, Lucknow, Uttar Pradesh 226005","26.809962,80.9000737",0721 7887 979 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Lucknow," Jagrani Chauraha, Opposite Regency Hospital, Vikas Nagar, Lucknow, Uttar Pradesh 226021","26.898172,80.9672975",0931 1713 427 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Lucknow," Shop No 23AT, Burlington Arcade Mall, Vidhan Sabha Marg, Husainganj, Lucknow, Uttar Pradesh 226001","26.8411349,80.9378303",0935 4938 568 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Lucknow," CP-1, Cp-2, Cp-3, Sector I, Lda Colony, Aashiyana Chauraha, Ashiyana, Lucknow, Uttar Pradesh 226012","26.7950346,80.9158697",0721 7888 190 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gurdaspur," Ct Palace Batala Road, Gurdaspur, Improvement Trust Colony, Gurdaspur, Punjab 143521","32.0296616,75.3916839",0721 7887 946 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Lucknow," Virat Khand Road, Chinhat, Near Chandel Hospital, Gomti Nagar, Lucknow, Uttar Pradesh 226028","26.8742436,81.0251192",0859 5918 006 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Lucknow," Plot No 15, Vijyant Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226028","26.86735,81.02521",0935 4938 570 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gurdaspur," City Centre Mall, Lower Ground Floor, Dalhousie Road, Gandhi Chowk, Pathankot, Gurdaspur, Punjab 145001","32.2727585,75.6534958",0721 7888 260 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Barabanki," Naka Paisar, Paisar Plaza, Faizabad Road, Paisar, Barabanki, Uttar Pradesh 225001","26.9279727,81.2052897",0721 7888 164 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Guna," AB Road, Near SBI Bank (GBB Branch), Radha Colony, Guna, Madhya Pradesh 473001","24.6467552,77.3139654",0828 8048 094 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bhilwara," Bioscope Mall, Ajmer Road, Subhash Nagar, Bhilwara, Rajasthan 311001","25.3679633,74.6265222",0978 4045 994 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bahraich," Nanpara Road, Near Mission Hospital, Gulamali Pura, Bahraich, Uttar Pradesh 271801","27.5836107,81.5860007",0935 4938 566 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Fatehpur," Sagar Road, Near Sai Mandir, Harihar Ganj, Fatehpur, Uttar Pradesh 212665","25.9211954,80.8111122",0817 8807 583 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Chhatarpur," Plot No 95/85, 96/86 and 97/87, Ward No 1, Jawahar Marg, Nowgong Road, Near Bus Stand, Narayanpura, Chhatarpur, Madhya Pradesh 471001","24.917612,79.583246",0935 4938 573 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Raebareli," Ahmadpur Nazool, Kanal Road, Pargana, Vikas Colony, Indira Nagar, Raebareli, Uttar Pradesh 229001","26.2181568,81.2422812",0859 5918 010 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Chittorgarh," Ghatiyawali Road, Sector 5, Gandhi Nagar, Chittorgarh, Rajasthan 312001","24.8785395,74.6345579",0992 9397 924 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Jodhpur," Shop No B1, Store 6, Chopasani Road, Near Ashok Leyland, Chopasni Housing Board, Jodhpur, Rajasthan 342003","26.269817,72.974474",0721 7887 936 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Jammu," Shop No 373, Kunjwani Chowk, Main Road, Opposite Government Tube Well, Cantonment, Jammu, Jammu and Kashmir 180010","32.6703001,74.8815817",0721 7888 124 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Jammu," Bahu Plaza Complex, Opposite LIC Building, Trikuta Nagar, Jammu, Jammu and Kashmir 180015","32.7063876,74.8733832",0721 7888 013 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Jammu," Talab Tillo Road, Near Nitco Lane, Suraj Nagar, Jammu, Jammu and Kashmir 180003","32.731657,74.8375917",0817 8024 127 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,JAMMU," JP Square, Old Janipur Main Road, Near High Court Chowk, Revenue Village, Top Sherkania, Adjoining Hdfc Bank, Janipur, JAMMU, Jammu and Kashmir 180007","32.756912,74.849885",0721 7888 300 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Neemuch," Plot No 01 and 02, Ward No 15, Firoj Sah Road, Vijay Talkies Chouraha, Neemuch, Madhya Pradesh 458441","24.460854,74.8657241",0721 7888 417 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Udhampur," MH Road, Govind Chowk, Raghunathpura, Raghunathpura, Udhampur, Jammu and Kashmir 180021","32.9272682,75.1356006",0721 7888 303 ,10:00 AM to 04:00 AM
+ Vishal Mega Mart ,Faizabad," Sursari Colony, Civil Line, Civil Lines, Faizabad, Uttar Pradesh 224001","26.7724981,82.1344663",0931 5913 436 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Sultanpur," Dariypur Tiraha, Allahabad Road, Near Dariyapur Tiraha, Shastri Nagar, Sultanpur, Uttar Pradesh 228001","26.2531004,82.070859",0800 5111 122 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Mandsaur," Plot No 26 (Part), Nayapura Road, New Colony, Bhatrewas, Mandsaur, Madhya Pradesh 458002","24.0715565,75.066011",0782 7968 053 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Sagar," Makronia Square, Makronia, Near HP Petrol Pump, Padmakar Nagar, Sagar, Madhya Pradesh 470004","23.8517191,78.7916926",0721 7888 120 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Vidisha," Main Road, Civil Line, Durga Nagar, Rajeev Nagar, Vidisha, Madhya Pradesh 464001","23.5185524,77.8140737",0931 1713 429 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Udaipur," Shop No 138, 139, Machla Magra, Sector 11, Udaipur, Rajasthan 313001","24.561866,73.692837",0721 7888 146 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Satna," Venus Treasure, Behind Circuit House, Railway Colony, Satna, Madhya Pradesh 485001","24.5749871,80.8301899",0721 7887 892 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Damoh," Talkies Chouraha, Purana Thana Road, Damoh, Madiya Pangarha, Damoh, Madhya Pradesh 470661","23.8360693,79.444442",0782 7049 855 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Prayagraj," Shop No 2-A, JMD Bhawan, Stretchy Road, Civil Lines, Prayagraj, Uttar Pradesh 210001","25.4515133,81.8325472",0721 7887 988 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Prayagraj," Daud Nagar, Near Mewalal Bagiya, Opposite Hotel India, Naini, Prayagraj, Uttar Pradesh 211008","25.3932049,81.8637203",0124 4555 100 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bhopal," Berasia Road, Qazi Camp, Raj Deo Colony, Congress Nagar, Near Reliance Petrol Pump, JP Nagar, Bhopal, Madhya Pradesh 462001","23.274281,77.4026636",0124 4555 100 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Rajauri," Jawahar Nagar - Salani Link Road, National Highway 144A, Opposite PubLIC Health Engineering Department, Dalogora, Rajauri, Jammu and Kashmir 185131","33.3668627,74.3163676",0979 7644 889 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bhopal," Plot Number 1, Near Indira Press Complex, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011","23.2368306,77.4329204",0721 7887 870 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ujjain," Ward No 13, Building No 187 and 188, Mahidpur Road, Nagda, Ujjain, Madhya Pradesh 456335","23.457714,75.423368",0859 5918 007 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Sehore," Nirupam Yadav Trade Centre, Chanakyapuri, Avadhpuri Colony, Sehore, Madhya Pradesh 466001","23.2085147,77.1049549",0828 7947 017 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bhopal," Plot No 278 and 279, Rajharsh Road, Kolar Road, Opposite Wine Shop, Sarvdharm Colony, Bhopal, Madhya Pradesh 462042","23.1881073,77.4174309",0721 7887 879 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Rewa," SPS Mall, Village Urahat, Huzur, Tilak Nagar, Rewa, Madhya Pradesh 486001","24.5448008,81.3100036",0721 7887 875 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Katni," Ph No 42/45, Jabalpur Road, Bargawan, Beside Moon Filling Petrol Pump, Jharra Tikuriya, Katni, Madhya Pradesh 483501","23.8244098,80.384561",0782 7049 853 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ujjain," Madhav Club Road, Adjoining Tejenkar Hospital, Freeganj, Ujjain, Madhya Pradesh 456010","23.1778044,75.7869247",0721 7888 108 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ratlam," Deepak Picture Hall, Mahalla Aamlia, Sailana Road, Shastri Nagar, Ratlam, Madhya Pradesh 457001","23.3325937,75.036668",0721 7888 302 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Jaunpur," Pratap Colony, Olandganj Road, Near Jesis Chauraha, Husainabad, Jaunpur, Uttar Pradesh 222002","25.74229,82.68607",0893 3096 574 ,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,Gorakhpur," Gorakhpur - Sonauli Road, Near Anandlok Hospital, Dayanand Nagar, Gorakhpur, Uttar Pradesh 273015","26.7792398,83.3580194",0830 3008 844 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gorakhpur," Medical College Road, Mughala Chauraha, Near City Hospital, Chargawa, Gorakhpur, Uttar Pradesh 273013","26.8083849,83.3952359",0124 4555 100 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gorakhpur," Ambedkar Chowk, Kachehari Road, Bilandpur, Gorakhpur, Uttar Pradesh 273001","26.7473287,83.3729958,",0721 7888 107 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Srinagar," Srinagar Bypass Road, National Highway 1, Opposite Classic Hospital, Hyderpora, Srinagar, Jammu and Kashmir 190014","34.0462,74.78823",0700 2404 445 ,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,Azamgarh," Mukeriganj, Near Polytechnic Chauraha, Pura Jodhi, Azamgarh, Uttar Pradesh 276001","26.0793092,83.1880379",0798 5015 652 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Azamgarh," Gorakhpur Varanasi Marg, Marhaya, Ashok Building, Near Vodaofone Store, Civil Lines, Azamgarh, Uttar Pradesh 276001","26.0548223,83.182399",0931 5961 623 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Mirzapur," Pili Kothi, Station Road, Near Roadways Chauraha, Baraundha, Mirzapur, Uttar Pradesh 231001","25.1339854,82.5725996",0870 0279 972 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Jabalpur," Shop No 932m Titanium, Near Maharashtra High School, Wright Town, Jabalpur, Madhya Pradesh 482002","23.1679813,79.9259951",0721 7888 299 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Indore," Mangal City Mall, Scheme 54 PU4, Circle, Mumbai - Agra National Highway, Vijay Nagar, Indore, Madhya Pradesh 452001","22.7525351,75.8965096",0721 7887 950 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Hoshangabad," Deshbandhupura, Near Axis Bank, Itarsi, Hoshangabad, Madhya Pradesh 461111","22.6128847,77.765481",0928 9293 674 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Indore," Shop No 16, Kranti Building, Yeshwant Niwas Road, Lad Colony, South Tukoganj, Tukoganj, Indore, Madhya Pradesh 452001","22.708289,75.882639",0721 7888 155 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Indore," Annapurna Road, Near Chankyapuri Choraha, Narmada Nagar, Indore, Madhya Pradesh 452009","22.6825687,75.8356209",0721 7888 122 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Varanasi," Shivpur Bypass Road, Chhatripur, Near Tarna Overbridge, Bagatpur, Varanasi, Uttar Pradesh 221003","25.3610284,82.9528516",0723 3085 550 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Varanasi," AS Tower, Kautilya Kon Road, Sikraul, Bhojuveer, Varanasi, Uttar Pradesh 221002","25.3510077,82.9756543",0721 7888 165 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Varanasi," Shivdaspur, Dlw Road, Opposite Divine Sainik School, Manduwadih, Varanasi, Uttar Pradesh 221103","25.3082217,82.967482",0973 0312 818 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Varanasi," Super Market, Agrasen Nagar Colonypaharia Road, Opposite Pahariya Mandi, Paharia, Varanasi, Uttar Pradesh 221007","25.3550015,83.0038288",0700 7405 819 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Varanasi," Chunar Road, Near Kanchanpur Petrol Pump, Chitaipur, Varanasi, Uttar Pradesh 221004","25.27583,82.96747",0919 8125 784 ,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,Varanasi," Shop No 10/7B, Sonarpura Road, Krim Kund, Shivala, Varanasi, Uttar Pradesh 221001","25.296832,83.0043201",0721 7888 266 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Dhar," Akoliya Main Road, Infront of Mukati Petrol Pump, Pithampur, Dhar, Madhya Pradesh 454775","22.6113854,75.6594976",0859 5917 995 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Deoria," Jalkal Road, Opposite Paramarthi Pokhar, Saket Nagar, Deoria, Uttar Pradesh 274001","26.4991301,83.7857152",0817 8025 822 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Mau," Shiva Diagnostic Centre Imiliya, Bulaki Pura Imiliya, Opposite District Hosital, Imiliya, Mau, Uttar Pradesh 275101","25.9211047,83.5654232",0935 4951 184 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ghazipur," Varanasi Road, Near Lanka Maidan, Chungi, Ghazipur, Uttar Pradesh 233001","25.5783788,83.5610631",0817 8810 238 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Siwan," Station Road, Near Mairwa Block, Mairwa, Siwan, Bihar 841239","26.2358884,84.1521044",0707 0172 999 ,10:00 AM to 09:30 PM
+ Vishal Mega Mart ,Sidhi," Thana Road, Near Udika Palace, Waidhan, Sidhi, Madhya Pradesh 486886","24.0718345,82.6132489",0888 2429 971 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,West Champaran," Supriya Cinema Road, Near HDFC Bank, Bettiah, West Champaran, Bihar 845438","26.8060168,84.5110505",0817 8039 053 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Betul," Cement Road, Durga Ward, Opposite Krishna Temple, Kothi Bazar, Betul, Madhya Pradesh 460001","21.9154101,77.9014263",0888 2429 973 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Chhindwara," Vidhya Complex, P G College Raod, Rautha Wada, Lalbagh, Sinchai Colony, Chhindwara, Chhindwara, Madhya Pradesh 480001","22.0609476,78.9478036",0828 7515 527 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Nalanda," Rani Sathi Kothi, Charitra Van, Near Kunwar Vijay Talkies, Buxar, Nalanda, Bihar 802101","25.5694769,83.9681964",0721 7887 930 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Siwan," Ram Rajya Mod, Station Road, Purana Quilla, Purana Quilla, Kagzi Muhalla, Siwan, Bihar 841226","26.2147483,84.3559767",0721 7888 068 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ballia," NCC Tiraha, Opposite Indian Oil Petrol Pump, Harpur, Ballia, Uttar Pradesh 277001","25.7674076,84.1518618",0931 1713 425 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,East Nimar," Indra Chowk, Front of SN College, Khandwa, East Nimar, Madhya Pradesh 450001","21.8221264,76.3571123",0817 8811 930 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Saran," Main Road, Nagina Singh Colony, Near Gudri Chowk, Chhapra, Saran, Bihar 841301","25.7874,84.7149",0,10:00 AM to 10:00 PM
+ Vishal Mega Mart ,Bhojpur," Plot No 3836, Circle No 236, Karman Tola, Station Road, Near Moti Mahal, Arrah, Bhojpur, Bihar 802301","25.5579654,84.6685258",0721 7887 961 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,East Nimar," Sindhi Basti Tulsi Mall, Lalbagh, Burhanpur, East Nimar, Madhya Pradesh 450331","21.3146163,76.2195966",0935 4951 223 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Aurangabad," MG Road, New Area, Aurangabad, Bihar 824101","24.7496586,84.366288",0931 5880 848 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Patna," Saakaar Amrapali Gardens, Danapur Cannt Main Road, Danapur, Patna, Bihar 801503","25.6389133,85.053679",0721 7887 927 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Sitamarhi," Ganesha Cinema Road, Khemaka Colony, Near Hotel Ashirwad, Laxmana Nagar, Sitamarhi, Bihar 843302","26.5905772,85.4917577",0930 8357 909 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Muzaffarpur," Amaze Shopping Mall, Brahmpura, Near Government Bus, Mushahari, Muzaffarpur, Bihar 842002","26.1261828,85.3762193",0721 7887 926 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Patna," Ground Floor and First Floor, Pandey Mall, Fraser Road, Old Jakkanpur, Indira Nagar, Patna, Bihar 800001","25.6126089,85.1396639",0721 7887 925 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Muzaffarpur," Ahiyapur, Zero Mile Square, Near Poonam Marriage Hall, Zeromile Chowk, Muzaffarpur, Bihar 842001","26.1491224,85.3919598",0730 1310 305 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Palamau," Second Town, Redma, Near TVS Showroom, Daltonganj, Palamau, Jharkhand 822101","24.033079,84.0784115",0620 6441 841 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Surguja," Shop No 48/4, Ring Road, Mission Chowk, Kedarpura, Ambikapur, Surguja, Chhattisgarh 497001","23.1358127,83.1908066",0931 5475 979 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Patna," Plot No 529-532, Ward No 24, Rajeshwar Commercial Complex, Prithavipur, Kankarbagh, Patna, Bihar 800001","25.6033787,85.1541385",0721 7887 963 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Muzaffarpur," Ramdayalu Nagar Road, Aghoria Bazar, Near Zenith Bharat Petrol Pump, Mushahari, Muzaffarpur, Bihar 842002","26.1033938,85.3889098",0124 4555 100 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Muzaffarpur," Amar Jyoti Cinema Compound, Haathi Chowk, Mahammadpur Kazi, Musahri, Muzaffarpur, Bihar 842001","26.1180014,85.39751",0721 7887 959 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Nagpur," Shop No 183 and 184, Ayurvedic College Road, Raghuji Nagar, Nagpur, Maharashtra 440009","21.1237368,79.1178445",0721 7888 452 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Vaishali," Navin Carnival Cinema, Ram Balak Chowk, Hajipur, Vaishali, Bihar 844101","25.6939823,85.2148668",0931 5913 454 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Patna," Patna Bypass Road, Khemnichak, East Lakshmi Nagar, Near Ford Hospital Khemnichak, Ramkrishan Nagar, Patna, Bihar 800027","25.5844231,85.1625195",0990 5275 795 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bilaspurcgh," Seepat Road, Phase 2, Devnandan Nagar, Sarkanda, Bilaspurcgh, Chhattisgarh 495006","22.0982386,82.1618102",0881 7630 265 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bilaspurcgh," Hotel East Park, Agrasen Chowk, Talapara, Bilaspurcgh, Chhattisgarh 495002","22.0769277,82.1516979",0721 7888 080 ,08:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gaya," AP Colony, Near Asha Singh More, AP Colony, Gaya, Bihar 823001","24.7863297,84.9847176",0798 7253 938 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Korba," Stadium Road, Opposite Hotel Centre Point, Transport Nagar, Korba, Chhattisgarh 495677","22.3438264,82.7103635",0721 7888 141 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Darbhanga," VIP Road, Balbhadurapur, Laharia Sari, Benta, Laheriasarai, Darbhanga, Bihar 846004","26.1238156,85.9029717",0750 0552 206 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Nalanda," Sakunat Kala, Bihar Sharif, Nalanda, Bihar 803101","25.1991579,85.5340003",0931 5484 492 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Durg," Smriti Nagar, Near Hi-Tek Super Speciality Hospital, Bhilai, Durg, Chhattisgarh 490020","21.21567,81.32261",0900 9127 689 ,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,Rajnandgaon," Ward No 6 ,Chouhan, Contractor Colony, Sirsa K, Near Ganj Circle, Lakholi, Rajnandgaon, Chhattisgarh 491441","21.0906846,81.0420616",0782 7940 196 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Durg," Ward No 6, Chouhan, Contractor Colony, Sirsa K, Oppsite Maurya Talkies, Bhilai, Durg, Chhattisgarh 490001","21.2089744,81.3581489",0721 7888 143 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Nawada," Gaya Road, Sadbhawna Chowk, Near Church, St. Joseph School, Roh, Nawada, Bihar 805110","24.87962,85.53952",0983 5998 046 ,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,Raipur," Pandri Main Road, Nardha - Raipur Marg, Near Landmark Hotel, Pandri, Raipur, Chhattisgarh 492004","21.2567623,81.6532576",0935 4575 156 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Raipur," Great Eastern Road, Amapara, Chowk, Rright Side Guru Ghasi Das Plaza, Mominpara, Raipur, Chhattisgarh 492001","21.2403774,81.6250728",0721 7888 082 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Raipur," Pujari Complex, Abhanpur Road, Near Pachpedi Naka, Tagore Nagar, Raipur, Chhattisgarh 492001","21.2229359,81.6460716",0935 4575 154 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Begusarai," Barauni - Purnea Highway, Opposite Railway Station, Sarvodaya Nagar, Begusarai, Bihar 851101","25.4245035,86.1326169",0930 8461 665 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Hazaribag," Kallu Chowk, Near Indrapuri Chowk, Okni, Hazaribag, Jharkhand 825301","24.003593,85.3525693",0721 7888 315 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Lakhisarai," Khata No 466, Matharkhagur Mohalla, Ramgarh Chowkq, Lakhisarai, Bihar 811311","25.1802775,86.0939104",0828 7515 540 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Mahasamund," BTI Road, Opposite Bandhan Bank, Barounda Chowk, Mahasamund, Chhattisgarh 493445","21.1028727,82.0918196",0909 8143 313 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Raigarh," Subhash Chowk, Alok City Mall, Rajiv Nagar, Raigarh, Chhattisgarh 496001","21.8943184,83.3935197",0986 1207 633 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Saharsa," Purab Bazaar, Opposite Hotel Pardesi Pardo, Sant Nagar, Saharsa, Bihar 852201","25.877338,86.598911",0828 7515 529 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ramgarh," Thana Chowk, Satkaudi Complex, Ramgarh Cantonment, Ramgarh, Jharkhand 829122","23.6356478,85.5135213",0721 7888 310 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ranchi," Panchwati Tower, Harmu Road, Near Goswala, Kumhartoli, Ranchi, Jharkhand 834001","23.3764547,85.3143455",0721 7888 011 ,09:00 AM to 06:00 PM
+ Vishal Mega Mart ,Ranchi," Sudha Complex, Main Road, Opposite Sankat Mochan Hanuman Mandir, Nayatoli, Ranchi, Jharkhand 834001","23.367415,85.3249015",0943 2474 850 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ranchi," Booty Road, GP Complex, Bajra - Bariatu Road, Near DAV School, Bariatu, Ranchi, Jharkhand 834009","23.4004806,85.3572246",0782 7933 969 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Valsad," CM 66, 67, Fortune Mall, VIA Road, GIDC, Vapi, Valsad, Gujarat 396195","20.3685485,72.9244908",0721 7888 142 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Jharsuguda," Sarbhal Road, Opposite Income Tax Office, Sarbahal, Jharsuguda, Odisha 768201","21.8496466,84.012996",0721 7888 236 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Giridh," Pachamba Main Road, Near Bajaj Showroom, Boro, Giridh, Jharkhand 815316","24.1978273,86.2813",0799 1171 187 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bargarh," Akash Complex, Bhatli Chowk, National Highway 6, Nigamananda Bihar, Bargarh, Odisha 768028","21.3425786,83.6082291",0782 7050 114 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bhagalpur," Dr RP Road, Near Kotwali Thana, Goshalla, Bhagalpur, Bihar 812002","25.246155,86.9729352",0976 0088 454 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bhagalpur," Ward No 32, New Police Line Road, Lalbagh, Tilka Manjhi, Bhagalpur, Bihar 813108","25.2511369,86.9968335",0721 7887 962 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Sundergarh," Plot No 554-1886, Kachery Road, Udit Nagar, Rourkela, Sundergarh, Odisha 769012","22.2266701,84.8453791",0721 7888 383 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Sambalpur," Ainthapali Road, Near Hotel Dolphin, Sakhipara, Sambalpur, Odisha 768004","21.4870273,83.9842734",0828 7515 536 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Deoghar," Dumka Road, Shiv Tower Mandir More, Beside Agrahari Dharamsala, Jhoushagari, Deoghar, Jharkhand 814112","24.4904114,86.7033097",0962 5215 645 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bhagalpur," Kiara 2, Anand Vihar Colony, Kajipura, National Highway 80, Kahalgaon, Bhagalpur, Bihar 813203","25.2673893,87.2367195",0828 7923 197 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Dhanbad," Binod Bihari Chowk, Near Ashrafi Hospital, Jharudih, Dhanbad, Jharkhand 826001","23.8162387,86.4114559",0962 5005 079 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Dhanbad," Ward No 32, Khata No 422, Khsra No 374, Bank More, Dhanbad, Jharkhand 826001","23.7860142,86.4174117",0721 7888 312 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Purnia," Rajni Chowk, Bhatta Bazaar, Dharamshala Road, Sajjad Colony, Purnia, Bihar 854301","25.7715719,87.4823816",0993 3363 433 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Balangir," Swosti Tower, Old Palace Road, Front of Town Police Station, Rugudipada, Balangir, Odisha 767001","20.7041005,83.4862829",0828 7947 056 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Puruliya," Barakar Road, Purulia, Near Rajsthan Vidyapith, Garikhana, Puruliya, West Bengal 723101","23.3380197,86.3686733",0859 5939 566 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kishanganj," Khagra mela gate, Nawab Road 2, Near Khagra Mela Ground, Khagra, Kishanganj, Bihar 855107","26.0903049,87.9394589",0798 5921 242 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Adilabad," Mancherial - Chandrapur - Nagpur Rd, Maruthi Nagar, Opposite Hi Tech Colony, Mancherial, Adilabad, Telangana 504208","18.8902164,79.4403537",0782 7968 051 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,East Singhbhum," Road No 16, Jawahar Nagar, Opposite Madhav Baug Colony, Jamshedpur, East Singhbhum, Jharkhand 831012","22.8403709,86.2080863",0805 1131 700 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,East Singhbhum," Madhusudan Shree Krishnapuri, Dimna Main Road, Adarsh Nagar, Mango, Jamshedpur, East Singhbhum, Jharkhand 831012","22.8269043,86.2230377",0721 7888 010 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Seraikela-Kharsawan," Station Road, Jugsalai, Near LIC Building, Jamshedpur, Seraikela-Kharsawan, Jharkhand 831002","22.7714029,86.1943014",0124 4555 100 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Nizamabad," Hyderabad Road, Near Hanuman Junction, Vinayak Nagar, Nizamabad, Telangana 503001","18.662645,78.111765",0988 4018 620 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Karim Nagar," FCI 10 Road, Trinity College, Near Gurudeep Filling Station, Ramagundam, Karim Nagar, Telangana 505208","18.762051,79.4788654",0931 1713 413 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bardhaman," GT Road, Ushagram, Asansol, Bardhaman, West Bengal 713339","23.6774407,87.001355",0935 4575 152 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Darjiling," Ground Floor, Spencer Plaza, Burdwan Road, Siliguri, Darjiling, West Bengal 734005","26.7091165,88.4172305",0721 7888 154 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Darjiling," Lower Ground Floor, 3rd Mile, Sovoke Road, Opposite Mahindra Showroom Home Land, Siliguri, Darjiling, West Bengal 734001","26.7537531,88.4407643",0931 5913 447 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,North Dinajpur," NS Road, Near HDFC Bank, Raiganj, North Dinajpur, West Bengal 733134","25.6293028,88.1312279",0931 1713 435 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,East Singhbhum," Moubhandar Road, Dahigora, Besides Subarnarekha Nushing Home, Ghatshila, East Singhbhum, Jharkhand 832303","22.5902387,86.4696343",0983 5412 555 ,09:00 AM to 09:00 PM
+ Vishal Mega Mart ,Karim Nagar," Door No 2-3-133 and 134, Kamarapu Kotaiah Towers, Kaman Circle, Ganesh Nagar, Karim Nagar, Telangana 505001","18.4277615,79.1349097",0721 7888 069 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Malda," Sarbamangala Pally, PS English Bazar, National Highway 34, Near Mango Leaf Hotel, Rathbari, Malda, West Bengal 732101","25.0097017,88.1397583",0828 7946 978 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Jalpaiguri," Kamarpara Road, Near Agrasen Bhawan, Kamarpara, Jalpaiguri, West Bengal 735101","26.5281266,88.7219331",0721 7887 874 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bastar," Varghese Wings, Chitrakote Road, Jagdalpur, Bastar, Chhattisgarh 494001","19.0916693,82.0010402",0888 2035 503 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Murshidabad," Srikanta Bati, Near Green View Nursing Home, Raghunathganj, Murshidabad, West Bengal 742225","24.4573419,88.0512174",0801 7557 398 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Pune," Wing B, Kpct Commercial Complex, Vitthal Rao Shivarkar Road, Fatima Nagar, Wanowrie, Pune, Maharashtra 411013","18.503716,73.9006824",0721 7888 455 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Birbhum," Tourist Lodge Road, Opposite Tourist Lodge, Bolpur, Birbhum, West Bengal 731235","23.6700544,87.6906516",0931 1955 767 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Medak," Mallaiah Garden, Hyderabad Road, Near Khonda, Beside SV Motar, Siddipet, Medak, Telangana 502103","18.0912024,78.853864",0859 5939 584 ,09:00 AM to 08:00 PM
+ Vishal Mega Mart ,Bidar," Bvb College Road, Khaji Colony, Gandhi Gunj, Near Bommagondeshwar Circle, Nandi Colony, Bidar, Karnataka 585401","17.9097201,77.519511",0124 4555 100 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,West Midnapore," Shop No SH-5, Raghunathpur, Opposite SBI Atm Jhargram, Jhargram, West Midnapore, West Bengal 721507","22.4444957,86.9963503",0931 8492 868 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Warangal," Bheemaram, Gate No 2, Opposite Kakatiya University, Hanamkonda, Warangal, Telangana 506009","18.0271843,79.5448182",0124 4555 100 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Warangal," Hunter Road, Near Orugallu Petrol Pump, Hanamkonda, Warangal, Telangana 506001","17.9851488,79.5743312",0828 7946 943 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,South Dinajpur," Subhas Corner More, Balurghat, South Dinajpur, West Bengal 733101","25.2322756,88.7866875",0888 2035 507 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,South Dinajpur," Shop No 188, R N Tagore Road, (Lal Dighi), Murshidabad, PS Berhampore, Mouza, Berhampore, South Dinajpur, West Bengal 742101","24.0938551,88.2520717",0888 2206 942 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Mayurbhanj," Murgabadi, Darogadihi Golei, Baripada, Mayurbhanj, Odisha 757002","21.9554686,86.7410839",0721 7887 935 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,West Midnapore," Jack Paul Building, Raja NL Khan Road, Hospital Road, Midnapore, West Midnapore, West Bengal 721101","22.4197293,87.3204561",0931 5489 280 ,10:00 AM to 08:00 PM
+ Vishal Mega Mart ,Hyderabad," Plot No-2/A,5,6,7,25,26,27, Survey No 164, Vill-Dommara Pochampalle, Gandimaisamma 10 Road, Beside Bus Stand, Gandi Maisamma, Hyderabad, Telangana 500043","17.574606,78.423878",0837 4933 453 ,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,Cooch Behar," SN Road, Near Kali Mandir, Gowala Patti, Cooch Behar, West Bengal 736165","26.3278233,89.4557852",0859 5939 569 ,07:00 AM to 07:00 PM
+ Vishal Mega Mart ,Hooghly," Arambagh Link Road, Near Gourhati More, Arambagh, Beside SBI, Arambagh, Hooghly, West Bengal 712601","22.8784799,87.7905873",0935 4951 182 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Medak," Ragavendra Colony, Opposite Mahisri Reseidency, Beeramguda, Medak, Telangana 502032","17.52617,78.29830985",0,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,Hyderabad," Marwadi Line Colony, Balaji Nagar, Malkajgiri, Sainikpuri, Hyderabad, Telangana 500094","17.5126204,78.5615453",0798 9010 462 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Hyderabad," Suchitra Quthbullapur Road, Raghavendra Colony, Godavari Homes, Beside SBI Bank, Quthbullapur, Hyderabad, Telangana 500055","17.5030526,78.4697483",0900 0000 327 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Hyderabd," Rampally 10 Road, Nagaram, Opposite Hp Petrol Pump, Nagaram, Hyderabd, Telangana 500083","17.4926118,78.6044613",0721 7888 424 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Hyderabad," 10 Road, Sainikpuri, Vayupuri, Beside Yamaha Showroom, Sainikpuri, Hyderabad, Telangana 500094","17.4840184,78.5475574",0770 2561 445 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Hyderabad," Anjaneya Nagar X-Road, Moosapet, Hyderabad, Telangana 500018","17.4693,78.41817",0868 8353 368 ,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,Hyderabad," Plot No 5-21/5-22, Geetha Nagar, Malkajgiri, Secunderabad, Hyderabad, Telangana 500047","17.4504452,78.5353239",0124 4555 100 ,09:30 AM to 10:00 PM
+ Vishal Mega Mart ,Hyderabad," Namalagundu, Opposite Good will Hotel, Warasiguda, Secunderabad, Hyderabad, Telangana 500061","17.4228806,78.5165335",0701 3622 037 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gulbarga," Humnabad Ring Road, Shivaji Nagar, Opposite Kmf Dairy Main Gate, Kalaburagi, Gulbarga, Karnataka 585104","17.3620102,76.8478444",0636 1530 896 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Hyderabad," Shop No 8-1-387 to 390, Podium Mall, Tolichowki Road, Daulat Gulshan Colony, Janaki Nagar Colony, Old Mumbai Highway, Toli Chowki, Hyderabad, Telangana 500008","17.4002749,78.414851",0721 7887 928 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Hyderabad," Shop No 5-107/a, Buddha Nagar Colony, Mallika Arjun Nagar, National Highway 163, Boduppal, Hyderabad, Telangana 500039","17.4070678,78.5933855",0931 5468 476 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Cuttack," CDA, Opposite SIMS College, Sector 10, Cuttack, Odisha 753014","20.48338,85.82078",0890 8008 093 ,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,Hyderabad," Sai Bhavani Mira Kamshetty Mall, Amberpet Main Road, Bapu Nagar, Meera, Opposite TV Studio, Amberpet, Hyderabad, Telangana 500013","17.395736,78.5289961",0721 7888 066 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Nadia," Poramatala Road, Near Alochaya Cinema Hall, Nabadwip, Nadia, West Bengal 741302","23.4043458,88.3662329",0916 3252 754 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Koppal," Timmapure Circle,svp Circle Station Area, Opposite My Medical, Gulbarga, Koppal, Karnataka 585102","17.3200032,76.8270326",0859 5939 582 ,08:00 AM to 08:00 PM
+ Vishal Mega Mart ,Baleswar," Fakir Mohan Circle, Ot Road, Balasore, Baleswar, Odisha 756001","21.5008053,86.9242461",0859 5939 571 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Hyderabad," New Nagole Main Road, Samathapuri Colony, Mohan Nagar, Kothapet, Hyderabad, Telangana 500035","17.3740784,78.5514632",0935 4575 150 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bhadrak," Master Babu Complex, Chhapulia Baipass, Bankashi, Bhadrak, Odisha 756100","21.0742744,86.5087834",0721 7888 356 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Hyderabad," Near Kali Mandir, Bandlaguda Jagir, Opposite Grk Gardens, Bandlaguda Jagir, Hyderabad, Telangana 500093","17.35739,78.3846671",0935 4951 159 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Hyderabad," Pillar No 188, Inner Ring Road, Upperpally, Attapur, Hyderabad, Telangana 500048","17.3531096,78.4194806",0880 2209 999 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Hyderabad," Green Park Colony Karmanght, Adjacent Max Life Hospital, Saroor Nagar East, Hyderabad, Telangana 500079","17.3452022,78.5277798",0931 1713 423 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Cuttack," Bajrakabati Road, Raj Path Road, Manglabagh, Cuttack, Odisha 753001","20.4660806,85.8863051",0721 7888 352 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,K.v.rangareddy," Mansoorbad, Chinthala Kunta Road, Opposite Radio Station, Hayathnagar, K.v.rangareddy, Telangana 500070","17.3412698,78.5618542",0630 5528 271 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Hyderabad," Plot No 31, Teachers Colony, Saga Road, BN Reddy Nagar, Hasthinapuram South, Beside Bawarchi Restaura, Hastinapuram, Hyderabad, Telangana 500070","17.3268542,78.5560748",0931 5913 442 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Hyderabad," Shop No 2 and 3, RCI Road, Meerpet, Hyderabad, Telangana 500058","17.3221339,78.5204153",0962 5215 635 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bardhaman," JL No 167, Parganas, Ambika, Near FCI Station Road, Kalna, Bardhaman, West Bengal 713409","23.2136103,88.3564184",0828 7940 890 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Khorda," Shop No, 240, Block N3-N5, Jayadev Vihar Road, IRC Village, Jayadev Vihar, Bhubaneswar, Khorda, Odisha 751013","20.2936805,85.8129065",0721 7888 353 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Khorda," Infront of Shani Mandir, Patrapara, National Highway 5, Near Hotel Suncity, Bhubaneswar, Khorda, Odisha 751019","20.2440276,85.7705016",0870 0298 035 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Khorda," Venus Plaza, Rasulgarh Industrial Sector, New Colony, Rasulgarh, Bhubaneswar, Khorda, Odisha 751007","20.2987431,85.8618464",0931 5913 449 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Howrah," Shyampur Road, Bagnan Howrah, Khalore, Next to Railway Flyover, Bagnan, Howrah, West Bengal 711303","22.4599092,87.9749952",0935 4951 187 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Hooghly," Shop No 260, Mankundu Station Road, Sambhu More, Chandannagar, Hooghly, West Bengal 712136","22.845631,88.3570189",0962 5215 638 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,North 24 Parganas," B-Mall, Station Road, Kanchrapara, Near College More, Kanchrapara, North 24 Parganas, West Bengal 743145","22.9485065,88.442277",0817 8809 416 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ganjam," Church Road, Brahmapur, Ganjam, Odisha 760001","19.3119413,84.7930655",0721 7888 237 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Nadia," Near Singer Petrol Pump, Chatimtala, Chakdah, Nadia, West Bengal 741222","23.077252,88.5438534",0797 9039 535 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kendrapara," Law College Road, Cuttack - Kendrapada Road, Opposite Reliance Petrol Pump, Duhuria, Kendrapara, Odisha 754250","20.51566,86.38847",0845 6925 070 ,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,Dhubri," Jain Cakes, Chairman Road, Mahamaya Lane, Opposite Shani Mandir, Nuniapatty, Dhubri, Assam 783301","26.0181412,89.9823975",0817 8037 084 ,09:00 AM to 09:00 PM
+ Vishal Mega Mart ,Rishra," Unnamed Road, Dharmadanga, Kali Tala, Grand Trunk Road, Opposite Reliance Petrol Pump, Baghkhal, Rishra, West Bengal 712248","22.71565,88.35508",0906 2826 002 ,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,Hooghly," Regent Ganga, Uttarpara, Hooghly, West Bengal 712233","22.6815634,88.3537949",0935 4575 138 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Khammam," Bypass Road, Vijaynagar Colony 2, Opposite RTO Office Junction, Dwaraka Nagar, Khammam, Telangana 507002","17.2606183,80.154374",0828 7923 199 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,North 24 Parganas," Shop No 92F, Prithvi Plaza, Bt Road, Opposite Texmaco Ltd, Kamarhati, North 24 Parganas, West Bengal 700058","22.6817752,88.3753583",0721 7888 015 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,North 24 Parganas," Mitrangan, HB Town, Sodepur Road, Kathghola, Opposite Padma Cinema Sodepur, Sodepur, North 24 Parganas, West Bengal 700110","22.6954948,88.3978237",0721 7887 953 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Nalgonda," Barlapenta Bazaar, Old Bus Stand, Navya Theatre Road, Opposite Venkateshwar Swamy Temple, Suryapet, Nalgonda, Telangana 508213","17.1402988,79.6165856",0984 8926 444 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,North 24 Parganas," Sodepur Barasat Road, Banquet Hall, Opposite Sanai Marriage Hall, Madhyamgram, North 24 Parganas, West Bengal 700130","22.6968244,88.4460565",0721 7887 954 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,North 24 Parganas," Shop No 59, Jessore Road, Champadali, Barasat, North 24 Parganas, West Bengal 700124","22.7174358,88.4838948",0721 7888 014 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,North 24 Parganas," VIP Road, Baguihati, Jyangra, North 24 Parganas, West Bengal 700059","22.6163503,88.4320214",0721 7888 016 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,North 24 Parganas," Ramesh Mitra Road, Narayanpur Bazaar, Near 217 Bus Stand, Narayanpur, North 24 Parganas, West Bengal 700136","22.645298,88.4607585",0931 1955 742 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,South 24 Parganas," Ground Floor, Regent Super Market, Bus Stand, Near CTC, Amtala, South 24 Parganas, West Bengal 743337","22.3679324,88.271314",0721 7888 479 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kokrajhar," Jwhwlao Dwimalu Road, Near Indian Oil Petrol Pump, Boro Bhatarmari, Kokrajhar, Assam 783370","26.4187902,90.2783076",0782 7968 057 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Puri," Medical Square, Opposite Canara Bank, Balagandi, Puri, Odisha 752001","19.8127814,85.8309697",0721 7887 940 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,North 24 Parganas," Shop No 308/143, Jessore Road, West Kamarthuba Road, Supermarket, Habra Bazar Lane Number 3, Near Joygachi, Habra, North 24 Parganas, West Bengal 743263","22.8488247,88.6637238",0888 2035 500 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bijapur," Near Gobbur Hospital, Beside Balaji Hpcl Petrol Pump, Vijayapura, Bijapur, Karnataka 586101","16.8376759,75.714479",0721 7888 419 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Mahabubnagar," Shareef Complex, Prashanth Residency, Raichur Road, Opposite Sindhu Hotel, Kidwaipet, Mahabubnagar, Telangana 509001","16.7496842,77.9939658",0828 7947 113 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Srikakulam," Kiims Road, Srikakulam, Near Prakruti Avenue, Byrivanipeta, Srikakulam, Andhra Pradesh 532005","18.3039909,83.8766235",0817 8024 164 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bongaigaon," Chapaguri Road, North Bongaigaon, Near BOC Gate, Amguri, Bongaigaon, Assam 783380","26.48677,90.5517096",0721 7888 132 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Visakhapatnam," Chinamushidivada, Municipal Corporation Area, Ganesh Nagar, Beside to ION Digital Building, Pendurthi, Visakhapatnam, Andhra Pradesh 531173","17.8073544,83.2086898",0931 1713 433 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Goalpara," BOC, Baladmari, Geetanagar, Goalpara, Assam 783101","26.1631265,90.6246608",0721 7888 233 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Visakhapatnam," GNT Road, Besides Satyanarayana Theater, Anakapalle, Visakhapatnam, Andhra Pradesh 531001","17.6872478,83.0138285",0829 7000 999 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,visakhapatnam," Kurmannapalem, Beside Annapurna Theater, Theater, visakhapatnam, Andhra Pradesh 530046","17.6862536,83.1663639",0756 9504 057 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,East Godavari," VL Puram, Beside Chakradhar Hospital, Rajahmundry, East Godavari, Andhra Pradesh 533106","16.9990714,81.7958392",0837 4933 453 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Barpeta," Main Road, Barpeta Road, Opposite Police Station, Barpeta Road, Barpeta, Assam 781315","26.4980643,90.9681627",0721 7888 043 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Raichur," Arab Mohalla, Androon Quilla, Near Hotel Cm Residency, Androon Quilla, Raichur, Karnataka 584101","16.2067959,77.3555426",0721 7888 433 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Krishna," Eleru Road, Gunadala, Near Esi Bus Stop, Vijayawada, Krishna, Andhra Pradesh 520004","16.5229916,80.6667157",0996 6331 182 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bagalkot," Nehru Road, Near Melligeri Towers, Kaulpet, Bagalkot, Karnataka 587101","16.18208,75.699661",0959 1552 192 ,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,East Godavari," Gokulam Street, Ashok Nagar, Near Gokulam Tample, Kakinada, East Godavari, Andhra Pradesh 533003","16.9811861,82.2286932",0973 1954 359 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Krishna," Panta Kaluva Road, Postal Colony Road, Patamata, Vijayawada, Krishna, Andhra Pradesh 520010","16.4966539,80.6641169",0828 7515 525 ,08:00 AM to 09:00 PM
+ Vishal Mega Mart ,Guntur," Amaravathi Road, Nagaral, Near Bandlamudi Garden, Panduranga Nagar, Guntur, Andhra Pradesh 522002","16.3240485,80.4376791",0870 0278 005 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Krishna," Satyanarayana Puram, Opposite Rtc Bus Stand, Gudivada, Krishna, Andhra Pradesh 521301","16.4302192,80.99864",0998 9335 219 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,West Godavari," Tatavarthy Vari Street, Gandhinagar, Beside LDBI Bank, Bhimavaram, West Godavari, Andhra Pradesh 534201","16.5422844,81.5253792",0991 2981 007 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kurnool," Venkata Ramana Colony, Main Road, Beside Santhosh Nagar Flyover, Svr Colony, Kurnool, Andhra Pradesh 518001","15.8352973,78.0163953",0960 3782 603 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Nalbari," Bharatiya Cinema Hall, Paikarkuchi, Nalbari, Assam 781335","26.450409,91.4475856",0721 7888 385 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Guntur," Pandri Puram NRT Center, Venugonda, Chilakaluripet, Guntur, Andhra Pradesh 522616","16.0940715,80.1650197",0935 4938 578 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kurnool," Adoni Bypass Road, Beside Laxman Theatre, Yemmiganur, Kurnool, Andhra Pradesh 518360","15.76159,77.47079",0805 0960 268 ,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,Kamrup," Goalpara Road, Near Bijoy Nagar Police Post, Bijoynagar, Kamrup, Assam 781122","26.0986083,91.5009675",0817 8813 726 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Krishna," Ramanaidupeta, Near Revathi Theatre, Machilipatnam, Krishna, Andhra Pradesh 521001","16.1842499,81.1360864",0817 8025 807 ,09:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kamrup," Bhutan Road, Near ICICI Bank, Rangia, Kamrup, Assam 781354","26.4457055,91.6193187",0936 5030 483 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Belgaum," 100 Feet Kanbergie Road, Near Nandini Dairy, Mahantesh Nagar, Belgaum, Karnataka 590016","15.8726506,74.5342799",0935 4938 572 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kurnool," New Goverment Area Hospital, GH Road, Adoni, Kurnool, Andhra Pradesh 518002","15.623136,77.2699306",0859 5939 567 ,08:00 AM to 09:00 PM
+ Vishal Mega Mart ,Prakasam," Sypai Peta, Jandrapeta, Near Hyma Hospital, Chirala, Prakasam, Andhra Pradesh 523155","15.8130295,80.3404239",0630 1852 279 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kamrup," Amaze Shopping Mall, Guwahati, Kamrup, Assam 781001","26.1799619,91.7460485",0721 7888 071 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kamrup," Lakhra Road, Kala Pahar, Colony Bazar, Near Subham, Garden, Opposite Pragati Tower, Guwahati, Kamrup, Assam 781018","26.1511829,91.7411404",0721 7888 038 ,09:00 AM to 04:00 PM
+ Vishal Mega Mart ,Kamrup," Royal Regency, Mrd Road,bamunimaidan, Guwahati, Guwahati, Kamrup, Assam 781021","26.1844686,91.7899149",0962 5215 618 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kamrup," Protech Centre, Ganeshguri, Mouza Village, Beltola Tiniali, Guwahati, Kamrup, Assam 781005","26.1491273,91.7863331",0721 7888 187 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kamrup," GS Road, Opposite Dispur Fire Station, Guwahati, Kamrup, Assam 781006","26.1402914,91.7973444",0789 6826 918 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kamrup," In Matrix Mall, Opposite Sankaradeva Nethralaya, Beltola, Kamrup, Assam 781028","26.1201157,91.797826",0817 8812 508 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Koppal," Shop C-5, Near Paddgodi Garden, Gangavathi, Koppal, Karnataka 583227","15.4430362,76.5039763",0817 8024 160 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kamrup," Chandrapur Road, Opposite Narengi Bazar, Narengi, Kamrup, Assam 781026","26.1810789,91.8329118",0903 6641 463 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Gadag," PB Road, Mahaveer Colony, Tanga Koot, Gadag-Betageri, Near Bhishma Lake, Tanga Koot, Gadag, Karnataka 582101","15.4235708,75.632874",0817 8025 473 ,09:00 AM to 09:00 PM
+ Vishal Mega Mart ,Darrang," Udalguri-Tamulpur Road, Near Bus Stand, Udalguri, Darrang, Assam 784509","26.7530832,92.096245",0881 1080 176 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Dharwad," Gandhi Nagar Cross, Opposite ICICI Bank, Gandhi Nagar, Dharwad, Karnataka 580006","15.4358376,75.0216061",0998 0952 095 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bellary," Dam Road, Jain Colony, Near City Hospital, Hosapete, Bellary, Karnataka 583203","15.2625336,76.3817173",0916 4013 389 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Dharwad," Kusugal Road, Beside Royal Enfield Showroom, Hubli, Dharwad, Karnataka 580023","15.3649624,75.1594842",0817 8024 063 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Dharwad," Hubali Centre Mall, Nh-4, Vidya Nagar, Besides Sushritha Hospital, Hubli, Dharwad, Karnataka 580021","15.3639223,75.125529",0721 7888 072 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Darrang," Nageshwar Chowk, Near Assam Gramin Vikash Bank, Kharupetia, Darrang, Assam 784115","26.5147608,92.1389644",0600 1408 530 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,East Khasi Hills," Jail Road, Police Bazar, Shillong, East Khasi Hills, Meghalaya 793001","25.5776967,91.8835337",0721 7888 034 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,East Khasi Hills," Demseiniong, Near Neepco Office, Shillong, East Khasi Hills, Meghalaya 793011","25.5799713,91.8977538",0124 4555 100 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bellary," Hosapete Road, Near Vijayalaxmi Theater, Toranagallu, Bellary, Karnataka 583123","15.1997806,76.6684185",0916 4013 389 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ballari," Anjali Arcade, Kappagal Road, Opposite Law College, Besides Krishna Temple, Gandhi Nagar, Ballari, Karnataka 583103","15.154699,76.9315944",0931 5961 619 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,West Tripura," Hari Ganga Basak Road (HGB Road), Melar Math, Opposite SBI Main Branch, Agartala, West Tripura, Tripura 799001","23.8287937,91.2740111",0828 7515 524 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,North Goa," Samrat Ashok Theatre Complex, 18th June Road, Santa Inez, Panjim, North Goa, Goa 403001","15.4972295,73.8241312",0721 7888 453 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,South Goa," Prabhu Emerald Complex, Debolim, Dabolim, South Goa, Goa 403803","15.3911605,73.8489172",0721 7887 941 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,South Goa," Aquem Power House, Near Anthony Chapel, Margao, South Goa, Goa 403601","15.272296,73.9766335",0721 7888 438 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Jaintia Hills," Mooralong, Near SBI Bank, Jowai, Jaintia Hills, Meghalaya 793150","25.4558232,92.2044987",0872 1846 747 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ananthapur," Sai Prashanthi Apartments Nandyal Road, Tadipatri, Ananthapur, Andhra Pradesh 515411","14.9136231,78.0157699",0817 8024 094 ,09:00 AM to 09:00 PM
+ Vishal Mega Mart ,Marigaon," Itachali Post Office, Assam Trunk Road, Near Oddssi Cinema Hall, Nagaon, Marigaon, Assam 782001","26.3546916,92.6942682",0721 7888 129 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Cuddapah," Gandhi Road, Beside Nagadastigiri Reddy Hospital, Proddatur, Cuddapah, Andhra Pradesh 516360","14.7539493,78.549437",0855 5916 928 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ananthapur," Ramachandra Nagar, Ramachandra Nagar, Ananthapur, Andhra Pradesh 515001","14.6879575,77.5989437",0817 8025 738 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Sonitpur," Victoria Street, Mahabhairab, Near Bsnl Office, Tezpur, Sonitpur, Assam 784001","26.6266145,92.7899406",0721 7888 133 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Sonitpur," Civil Hospital Road, Near Madhav Dham, Tezpur, Sonitpur, Assam 784001","26.6307387,92.7972135",0888 2035 495 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Nellore," Trunk Road, Near TVS Showroom, Kavali, Nellore, Andhra Pradesh 524201","14.9008158,79.99237",0800 8040 820 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,North Tripura," Auto Stand, Nayapara Road, Near Nayapara, Dharamnagar, North Tripura, Tripura 799250","24.3831812,92.1658831",0935 4951 158 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Karimganj," Chandraj Plaza, Station Road, Subhash Nagar, Karimganj, Assam 788710","24.8637164,92.3691979",0721 7888 137 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Haveri," Survey No 794A/5A+5V and 794A/5A+5B/2, Medleri Road, Ashok Nagar, Ranebennur, Haveri, Karnataka 581115","14.6166588,75.6359237",0859 5939 573 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Nagaon," JK Kedia, Main Road, Near Assam Oil Petrol Pump, Hojai, Nagaon, Assam 782435","26.0087153,92.8588355",0721 7888 183 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Davangere," Hadadi Road, Shrinivaasa Nagara, Vidyanagar, Davangere, Karnataka 577002","14.4427471,75.9216919",0721 7888 375 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Cuddapah," RTC Bus Stand, Maruthi Nagar, Near Bus Stand, Kadapa, Cuddapah, Andhra Pradesh 516003","14.4661231,78.8294577",0859 5918 004 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Sonitpur," Sundarpur, Pavoi Road, Biswanath Charali, Sonitpur, Assam 784176","26.754068,93.153238",0962 5215 620 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Cachar," Vivekananda Road, Near Boikanta Cinema Hall, Hailakandi, Cachar, Assam 788151","24.6807664,92.5670318",0967 8296 179 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Chitradurga," VP Extension Road, Near Punjab National Bank, Maniyur, Chitradurga, Karnataka 577501","14.2285116,76.404215",0740 6660 632 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Nellore," Mini Bypass Road, Opposite TDP Office, Dargamitta, Nellore, Andhra Pradesh 524003","14.43797,79.98344",0970 3105 665 ,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,Cachar," Central Road, Silchar, Cachar, Assam 788001","24.8251665,92.8008005",0721 7888 074 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Papum Pare," National Highway 415, Itanagar, Papum Pare, Arunachal Pradesh 791111","27.0984545,93.6262769",0721 7888 166 ,09:00 AM to 07:00 PM
+ Vishal Mega Mart ,Sonitpur," Purupbari Gate, Near BPCL Petrol Pump, Gohpur, Sonitpur, Assam 784168","26.8749408,93.6006349",0870 0280 773 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Cuddapah," Main Road, Masapet, National Highway 40, Opposite Collector Bangla, Rayachoty, Cuddapah, Andhra Pradesh 516270","14.06988,78.75292121",0890 4518 395 ,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,Lower Subansiri," Siiring Pakho Colony, Near D K G H S School, Ziro, Lower Subansiri, Arunachal Pradesh 791120","27.5440452,93.8191845",0700 2613 944 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Karbi Anglong," MG Road, Galaxy Cinema, Opposite Karbi Anglong Autonomous Council, Diphu, Karbi Anglong, Assam 782460","25.840332,93.4379921",0721 7888 483 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Aizawl," Old Don Bosco School, Aizawl-Lunglei Road, Bawngkawn, Aizawl, Bawngkawn, Aizawl, Mizoram 796014","23.7533436,92.7324636",0721 7887 955 ,09:00 AM to 07:00 PM
+ Vishal Mega Mart ,Shivamogga," Alkola Circle, 100 Ft Road, Near LIC Office, Gadikoppa, Shivamogga, Karnataka 577204","13.940752,75.545956",0935 4575 135 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ananthapur," VD Road, Besides Current Office, Hindupur, Ananthapur, Andhra Pradesh 515201","13.8271072,77.4931457",0818 5062 434 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Shimoga," BH Road, Opposite Manjunatha Kalayana Mandapa, Bhadravati, Shimoga, Karnataka 577245","13.8440295,75.6942751",0870 0280 230 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Dimapur," Churches Colony, Notun Bosti, National Highway 36, Near City Tower Circle, Khermahal, Dimapur, Nagaland 797112","25.91226,93.7207184",0721 7888 040 ,09:00 AM to 07:00 PM
+ Vishal Mega Mart ,Lakhimpur," Uday Tower, Dk Road, North Lakhimpur, Near SBI Bank, North Lakhimpur, Lakhimpur, Assam 787001","27.2353862,94.1050927",0721 7888 382 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Golaghat," New Amolapatty, Panch Ali, Golaghat, Assam 785621","26.5112003,93.9760204",0721 7888 373 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Chittoor," Kadiri Road, Madanapalli, andhra Pradesh, Opposite Judge Bungalow, Madanpalli, Chittoor, Andhra Pradesh 517325","13.5581589,78.4999262",0888 2206 945 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Chittoor," Sri Krishna Nagar, Opposite to Mahila University Main Gate, Tirupati, Chittoor, Andhra Pradesh 517502","13.6178521,79.402023",0630 1753 072 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Jorhat," Near Lahoty Petrol Pump, Opposite Gurudwara, Garali, Jorhat, Assam 785001","26.7532498,94.2192476",0721 7888 041 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Chikkaballapur," BB Road, Near Yamaha Bike Showroom, Chik Ballapur, Chikkaballapur, Karnataka 562101","13.4176638,77.7286384",0931 1713 437 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Tumkur," Plot No 35, Bengaluru - Honnavar Road, Near Dominos Pizza, Tumkur, Tumkur, Karnataka 572101","13.329603,77.1293119",0721 7888 073 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kohima," Plot No 1826, High School Junction, Near Popular Bakery, Mohon Khola, Kohima, Nagaland 797001","25.6891911,94.0985202",0721 7888 185 ,09:00 AM to 07:00 PM
+ Vishal Mega Mart ,Wokha," AR Road, Tsumang- A, Doyang H Project, Wokha, Nagaland 797111","26.0952797,94.2531144",0881 2007 122 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Chickmagalur," KM Road, Opposite Apmc Market, Joythinagar, Chickmagalur, Karnataka 577101","13.3308915,75.7899209",0998 0477 391 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Dhemaji," Dhemaji Station Road, Ram Nagar, Dhemaji, Assam 787057","27.4768092,94.5587582",0782 7049 851 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Imphal East," Indo-Myanmar Road, National Highway 39, Adjacent Axis and HDFC Bank, Chingmeirong, Imphal East, Manipur 795010","24.8277607,93.9448529",0721 7888 184 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Imphal West," Kumecs City Centre, Manipur, Kakwa, Imphal West, Manipur 795003","24.7697528,93.9367848",0931 8492 866 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Udupi," Gundibail Road ,Adjacent Indian Oil Fuel Station, Gundibail, Udupi, Karnataka 576102","13.3554173,74.7511777",0870 0280 704 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Sibsagar," Shop No 13, Mouza Nagarmahal, Assam Trunk Road, Sivasagar, Sibsagar, Assam 785640","26.995227,94.6444206",0721 7888 186 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Chittoor," Vellore Road, Opposite Venkateshwar Theater, Mittoor, Chittoor, Andhra Pradesh 517002","13.2079409,79.0989907",0782 7049 848 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kolar," MB Road, Near Bescom, Keelu Kote, Kolar, Karnataka 563101","13.1290206,78.11923",0916 4242 096 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," Yelahanka 4th Phase, Yelahanka, Near Manasa Trinity Heart Hospital, Bengaluru North, Bengaluru, Karnataka 560064","13.106267,77.5775387",0721 7888 360 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," Kanshiram Nagar, Vaderahalli, Opposite Karnataka Bank, Bengaluru North, Bengaluru, Karnataka 560097","13.0903735,77.5397586",0782 7924 987 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," Vidyaranyapura Main Road, Bengaluru North, Bengaluru, Karnataka 560097","13.0752313,77.5576656",0782 7049 849 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," K Narayanpura Road, Hennur, Opposite Tawoon Café, Bengaluru North, Bengaluru, Karnataka 560077","13.0643185,77.6483373",0870 0278 332 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," Cauvery B Ed College, Defence Layout, Sahakar Nagar, Bengaluru North, Bengaluru, Karnataka 560092","13.0607617,77.5818538",0931 5913 452 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," Hesaraghatta Road, Near Triveni School, Hesaraghatta, Bengaluru, Karnataka 560073","13.05451,77.50773825",0,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,Thoubal," Indo-Mayanmar Road, Kakching Lamkhai, Kakching, Thoubal, Manipur 795103","24.4988558,94.0123231",0708 6042 675 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," Nelagadaranahalli Main Road, HMT Layout, Opposite St Pauls College, Bengaluru North, Bengaluru, Karnataka 560073","13.0331722,77.5037175",0931 1713 439 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," Gokula 1st Stage, 2nd Phase, Bus Stop, SBR Building, HMT Main Road, Ramaiah College, Mathikere Extension, Mathikere, Bengaluru North, Bengaluru, Karnataka 560054","13.0295949,77.5611243",0935 4951 189 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," Ravindra Complex ,13th Cross, Thambu Chetty Palya Main Road, Akshya Nagar, Ramamurthy Nagar, Bengaluru North, Bengaluru, Karnataka 560016","13.0208334,77.6856607",0721 7888 416 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," Shop No 3, 4, 5 and 6, LTG Tower, BDA, Outer Ring Road, Kempegowda Layout, Bengaluru North, Bengaluru, Karnataka 560058","13.0023837,77.5261084",0721 7887 965 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," Ayyapa Nagar, Devasandra Main Road, Devasandra, Near Bharat Petrol Pump, Bengaluru North, Bengaluru, Karnataka 560036","13.0042425,77.7116173",0962 5215 627 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Hassan," Main Ring Road, Jayanagar, Hassan, Karnataka 573201","13.0269472,76.1054202",0782 7968 049 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," Shop No 72/9, Magadi Main Road, Opposite Jeevan Hospital, Bengaluru North, Bengaluru, Karnataka 560023","12.9847363,77.4835742",0721 7888 369 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," Hope Farm Junction, ITPL Main Road, Whitefield, Channasandra, Bengaluru, Karnataka 560066","12.9837358,77.7516738",0888 2206 948 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Dibrugarh," Corporate Park, RKB Path, Opposite Head Post Off, Babulal Poddar Path, Dibrugarh, Assam 786001","27.4807256,94.9054578",0721 7888 136 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," Hal 3rd Stage, New Thippasandra Main Road, New Tippasandra, Bengaluru North, Bengaluru, Karnataka 560075","12.9724159,77.648825",0782 7940 164 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," D-Group Layout, Muddinapalya Road, Srigandada Kaval, Annapurneshwari Nagar, Naagarabhaavi, Opposite Revathi Hospital, Bengaluru North, Bengaluru, Karnataka 560072","12.9682211,77.5018354",0782 7954 729 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," Service Road, RPC Layout, Hampi Nagar, Vijaynagar, Behind Attiguppe Bus Stop, Bengaluru North, Bengaluru, Karnataka 560040","12.9582238,77.5341909",0855 3152 920 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," JP Square Cross, 5th Main Road, Chamarajapet, Bengaluru South, Bengaluru, Karnataka 560018","12.9574046,77.5676206",0721 7887 995 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," Panantur Main Road, Kadubeesanahalli Village, Near Orchids International School, Bengaluru South, Bengaluru, Karnataka 560103","12.9386844,77.6968463",0815 0025 222 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," Varthur Road, Near Vinayak Theatre, Bengaluru North, Bengaluru, Karnataka 560087","12.9353655,77.744042",0888 2035 498 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," Outer Ring Road, Kengeri Satellite Town, Opposite Church Bus Stop, Bengaluru South, Bengaluru, Karnataka 560060","12.9292999,77.4870653",0953 8184 281 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kolar," Railway Station Road, Robertsonpet, Dr BR Ambedkar Road, Opposite LIC Building, Kolar Gold Fields, Kolar, Karnataka 563122","12.95668,78.26914073",0974 1217 817 ,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,Sibsagar," Krishna Arcade, AT Road, Moranhat, Sibsagar, Assam 785670","27.1914926,94.9141646",0962 5215 643 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," Shop No 31/9, Krimson Square, Junction, Hosur Road, Bommanahalli, Near Central Silk Board, Bengaluru South, Bengaluru, Karnataka 560068","12.9132655,77.6255704",0721 7888 415 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," Siri Landmark, Uttarahalli Main Road, Opposite to Brindhavan Apartment, Bengaluru South, Bengaluru, Karnataka 560061","12.9082402,77.5478132",0721 7887 997 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," Uttarahalli-Kengeri Main Road, Srinivaspura ,Ganakallu Village, Bengaluru South, Bengaluru, Karnataka 560060","12.9037588,77.5078448",0734 9536 444 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," Hosa Road, Kasavanahalli Village, Near SJR Verity Apartment, Bengaluru South, Bengaluru, Karnataka 560103","12.9016662,77.6758605",0828 7947 028 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," Bannerghatta Road, Bengaluru South, Bengaluru, Karnataka 560076","12.8975231,77.5999214",0888 2429 978 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bangalore," Adjacent SBI bank, Begur main road, Hongasandra, Bangalore South, Bangalore, Karnataka 560068","12.8904691,77.6256066",0810 5854 989 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," Sarjapura Main Road, Dommasandra, Opposite Silver Oaks School, Anekal, Bengaluru, Karnataka 562125","12.8857143,77.7443073",0991 6497 269 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," Shop No 78/2, BK Circle Road, Gayathri Tapovana, JP Nagar, Near Keerthi Function Hall, Opposite Iim, Bengaluru South, Bengaluru, Karnataka 560076","12.8725286,77.5834506",0931 5477 360 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Bengaluru," Ananth Nagar, Opposite Andhra Bank, Bengaluru South, Bengaluru, Karnataka 560100","12.8354143,77.6912351",0888 2206 953 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Dakshina Kannada," MRPL Road, Surathkal, Near Chokka Bettu Cross, Mangalore, Dakshina Kannada, Karnataka 575014","12.9874656,74.8073202",0962 0473 539 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ramanagar," Bengaluru-Mysore Road, Near Rotary Hospital, Rayaradoddi, Ramanagar, Karnataka 562159","12.7301272,77.2800695",0701 9971 008 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Dakshina Kannada," Nellikai Road, Near State Bank Chowk, Mangalore, Dakshina Kannada, Karnataka 575001","12.8624,74.83577",0636 0074 155 ,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,East Siang," Second Mile Area, Opposite Indian Oil Petrol Pump, Pasighat, East Siang, Arunachal Pradesh 791102","28.0454561,95.3308914",0762 9974 090 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Dibrugarh," Kamalabari Road, Near Essar Petrol Pump, Duliajan, Dibrugarh, Assam 786602","27.354298,95.3340804",0887 6819 046 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Tinsukia," Khaitan Plaza, Near Municipal Board, Gnb Road, Tinsukia, Assam 786125","27.489245,95.3571082",0721 7888 309 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Mandya," RP Road, Adjacent to Sanjay Theatre, Subash Nagar, Mandya, Karnataka 571401","12.5267559,76.8903861",0767 8306 635 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Mysuru," General Thimmaiah Road, Vijayanagar 1st Stage, Near Kodava Samaja, Vijaynagar, Mysuru, Karnataka 570017","12.331566,76.609817",0,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,Mysore," Shop No 1518, 3, Devaraja Mohalla, Shivarampet, Shivarampet, Mysore, Karnataka 570001","12.3112527,76.647769",0721 7888 413 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Kodagu," Harichandrapura, Thalassery - Mysore Road, SH 90, Opposite Indian Oil Pertol Pump, Gonikoppa, Kodagu, Karnataka 571213","12.18438,75.93355161",0845 3698 662 ,09:00 AM to 10:00 PM
+ Vishal Mega Mart ,Nilgiris," Plot No 144, Botanical, Garden Road, Garden Road, Vannarapettai, Ooty, Nilgiris, Tamil Nadu 643001","11.4148737,76.7088164",0721 7887 951 ,10:00 AM to 09:00 PM
+ Vishal Mega Mart ,Ernakulam," Shop No 12/1472, Payyattu Building, Chullickal, Near Gautham Hospital, Kochi, Ernakulam, Kerala 682005","9.9468524,76.2560285",0721 7888 401 ,10:00 AM to 09:00 PM
