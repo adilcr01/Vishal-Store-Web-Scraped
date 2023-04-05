@@ -9,10 +9,10 @@ Vishal also delivers excellent quality products in fashion, food & grocery and g
 ## Assignment Prompt: Retail Store Location Scraper
 For this assignment, your task is to scrape the locations of your
 favourite retail brand in India and extract the following information:
-*Store Name
-*Address
-*Timings
-*Coordinates (Latitude/Longitude) (bonus)
-*Phone Number
+* Store Name
+* Address
+* Timings
+* Coordinates (Latitude/Longitude) (bonus)
+* Phone Number
 
 
