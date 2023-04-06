@@ -47,16 +47,16 @@ To scrap them all we will do by iterating and then combining the scraped data in
 Object of Beautifulsoup on a subset data.
 ## •	Store Name
 
-First, we will inspect the website to get the html tag details of the element containing the Store Name.<br>
+#### First, we will inspect the website to get the html tag details of the element containing the Store Name.<br>
  ![image](https://user-images.githubusercontent.com/93968656/230279966-8c95708c-14cd-4ff2-af55-8329b673c58f.png)
-
-Second Step is to find the class name of the html tag that contains store name.
+<br>
+#### Second Step is to find the class name of the html tag that contains store name.<br>
  ![image](https://user-images.githubusercontent.com/93968656/230279981-994aa820-50eb-4b72-ae52-d0e073ab5f3d.png)
-
-Now use the class name we find to extract the store name from the website.
+<br>
+#### Now use the class name we find to extract the store name from the website.<br>
  ![image](https://user-images.githubusercontent.com/93968656/230279990-a3989ec9-831e-4d5d-b70a-5bef9e473125.png)
 
-Similar steps will be followed to extract the Timing, Full Address, Phone no. etc…
+### Similar steps will be followed to extract the Timing, Full Address, Phone no. etc…
 ## •	Timing
 ![image](https://user-images.githubusercontent.com/93968656/230280011-b598d714-88f5-404a-8439-c4c8f54a5e61.png)
 ![image](https://user-images.githubusercontent.com/93968656/230280020-a912c9e3-ad66-46ce-86f0-72a46e398952.png)
