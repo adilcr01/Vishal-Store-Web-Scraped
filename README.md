@@ -36,12 +36,12 @@ This is our Request code. We will Copy this code and use it in Jupyter Notebook 
  ![image](https://user-images.githubusercontent.com/93968656/230279852-8b6131ff-c5b8-47f1-bf00-63b5bd2129a8.png)
 
 
-Here we have used a loop. As there are total 21 pages on the website. 
+### Here we have used a loop. As there are total 21 pages on the website. 
 To scrap them all we will do by iterating and then combining the scraped data in a list called “response”.
  ![image](https://user-images.githubusercontent.com/93968656/230279880-85b90439-cb7f-4847-b400-9129b076a2b5.png)
 
 
-We are also using Beautifulsoup for scraping and Pandas for data manipulation purpose.
+### We are also using Beautifulsoup for scraping and Pandas for data manipulation purpose.
  ![image](https://user-images.githubusercontent.com/93968656/230279902-bb27602b-de64-4331-b3e5-f759dda793c5.png)
 
 Object of Beautifulsoup on a subset data.
@@ -87,19 +87,19 @@ Similar steps will be followed to extract the Timing, Full Address, Phone no. et
 ![image](https://user-images.githubusercontent.com/93968656/230280291-d21f467a-1695-410e-a052-69f58adeb14c.png)
 
  
-Now will scrap out the data from all 559 stores.
+### Now will scrap out the data from all 559 stores.
  ![image](https://user-images.githubusercontent.com/93968656/230280311-959a217b-65a1-4a01-a302-8a915735b794.png)
 
  ![image](https://user-images.githubusercontent.com/93968656/230280336-84d30c75-8bd0-45d7-b1f7-f95b30832204.png)
 
-As the total number of stores are 559.
+### As the total number of stores are 559.
 Converting all lists into a DataFrame
  ![image](https://user-images.githubusercontent.com/93968656/230280354-42e82a84-7aad-460f-b1f0-9b14d9a07dda.png)
 
-Web Scraped Data
+### Web Scraped Data
  ![image](https://user-images.githubusercontent.com/93968656/230280366-72e9d366-d9c6-4d09-848d-466517344c34.png)
 
-Saving the pandas DataFrame to a .csv file
+### Saving the pandas DataFrame to a .csv file
  
 ![image](https://user-images.githubusercontent.com/93968656/230280381-769ea542-3490-41e9-9eaf-e46de5f88dd2.png)
 
