@@ -58,32 +58,32 @@ Object of Beautifulsoup on a subset data.
 
 ### Similar steps will be followed to extract the Timing, Full Address, Phone no. etc…
 ## •	Timing
-![image](https://user-images.githubusercontent.com/93968656/230280011-b598d714-88f5-404a-8439-c4c8f54a5e61.png)<br>
-![image](https://user-images.githubusercontent.com/93968656/230280020-a912c9e3-ad66-46ce-86f0-72a46e398952.png)<br>
+![image](https://user-images.githubusercontent.com/93968656/230280011-b598d714-88f5-404a-8439-c4c8f54a5e61.png)<br><br>
+![image](https://user-images.githubusercontent.com/93968656/230280020-a912c9e3-ad66-46ce-86f0-72a46e398952.png)<br><br>
 ![image](https://user-images.githubusercontent.com/93968656/230280041-093dae87-e088-47ad-b1c4-80ad28991af7.png)
 
 
 ## •	Phone
- ![image](https://user-images.githubusercontent.com/93968656/230280103-fa7cb289-1c19-416e-9082-122bcaeb0cc4.png)<br>
-![image](https://user-images.githubusercontent.com/93968656/230280115-3424fded-da15-4708-88d1-e6700c752e2b.png)<br>
+ ![image](https://user-images.githubusercontent.com/93968656/230280103-fa7cb289-1c19-416e-9082-122bcaeb0cc4.png)<br><br>
+![image](https://user-images.githubusercontent.com/93968656/230280115-3424fded-da15-4708-88d1-e6700c752e2b.png)<br><br>
 ![image](https://user-images.githubusercontent.com/93968656/230280134-925117ee-1367-4faa-9460-1dfa4ea836f0.png)
 
 
 ## •	Full Address
- ![image](https://user-images.githubusercontent.com/93968656/230280154-4c0cf98e-53bf-4c7b-9a4c-5b927fb15a5a.png)<br>
-![image](https://user-images.githubusercontent.com/93968656/230280175-43d6da1b-dc33-43da-b870-35ad7546435a.png)<br>
+ ![image](https://user-images.githubusercontent.com/93968656/230280154-4c0cf98e-53bf-4c7b-9a4c-5b927fb15a5a.png)<br><br>
+![image](https://user-images.githubusercontent.com/93968656/230280175-43d6da1b-dc33-43da-b870-35ad7546435a.png)<br><br>
 ![image](https://user-images.githubusercontent.com/93968656/230280198-720e9690-3c82-4638-b4e0-fb0e882c19d9.png)
 
  
 ## •	City Name
- ![image](https://user-images.githubusercontent.com/93968656/230280218-03d980c2-dac9-4e42-b4c1-3001518d4828.png)<br>
-![image](https://user-images.githubusercontent.com/93968656/230280238-e60cb81e-7b71-4c9a-8bfb-09314af96c51.png)<br>
+ ![image](https://user-images.githubusercontent.com/93968656/230280218-03d980c2-dac9-4e42-b4c1-3001518d4828.png)<br><br>
+![image](https://user-images.githubusercontent.com/93968656/230280238-e60cb81e-7b71-4c9a-8bfb-09314af96c51.png)<br><br>
 ![image](https://user-images.githubusercontent.com/93968656/230280249-66888bd8-b584-4037-9645-69479101fbf6.png)
 
 
 ## •	Coordinates
- ![image](https://user-images.githubusercontent.com/93968656/230280266-1952df84-6868-46fb-8b64-d2d0cc38aa6c.png)<br>
-![image](https://user-images.githubusercontent.com/93968656/230280278-80883eca-7516-4dfe-a425-7f46de0c63aa.png)<br>
+ ![image](https://user-images.githubusercontent.com/93968656/230280266-1952df84-6868-46fb-8b64-d2d0cc38aa6c.png)<br><br>
+![image](https://user-images.githubusercontent.com/93968656/230280278-80883eca-7516-4dfe-a425-7f46de0c63aa.png)<br><br>
 ![image](https://user-images.githubusercontent.com/93968656/230280291-d21f467a-1695-410e-a052-69f58adeb14c.png)
 
  
