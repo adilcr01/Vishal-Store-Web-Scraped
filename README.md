@@ -92,8 +92,8 @@ Similar steps will be followed to extract the Timing, Full Address, Phone no. et
 
  ![image](https://user-images.githubusercontent.com/93968656/230280336-84d30c75-8bd0-45d7-b1f7-f95b30832204.png)
 
-### As the total number of stores are 559.
-Converting all lists into a DataFrame
+### As the total number of stores are 559.<br>
+### Converting all lists into a DataFrame
  ![image](https://user-images.githubusercontent.com/93968656/230280354-42e82a84-7aad-460f-b1f0-9b14d9a07dda.png)
 
 ### Web Scraped Data
