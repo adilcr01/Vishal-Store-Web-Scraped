@@ -47,7 +47,7 @@ To scrap them all we will do by iterating and then combining the scraped data in
 Object of Beautifulsoup on a subset data.
 ## •	Store Name
 
-First, we will inspect the website to get the html tag details of the element containing the Store Name.
+First, we will inspect the website to get the html tag details of the element containing the Store Name.<br>
  ![image](https://user-images.githubusercontent.com/93968656/230279966-8c95708c-14cd-4ff2-af55-8329b673c58f.png)
 
 Second Step is to find the class name of the html tag that contains store name.
