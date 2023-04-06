@@ -1,4 +1,4 @@
-Vishal Mega Mart
+# Vishal Mega Mart
  ![image](https://user-images.githubusercontent.com/93968656/230279628-a28c1795-610d-4a66-93eb-02fbf7cce07b.png)
 
 Vishal Mega Mart is India’s leading Fashion led hypermarket with 400+ stores spread across India. Vishal Mega Mart’s mission is to make aspirations affordable for all its customers by providing shoppers with a wide range of Latest Fashion, General Merchandise and Grocery needs. Vishal’s customers love its unique combination of great quality and amazing prices.
@@ -11,11 +11,11 @@ For this assignment, your task is to scrape the locations of your favourite reta
 •	Coordinates (Latitude/Longitude) (bonus)
 •	Phone Number
 
-Vishal Mega Mart Website. 
+## Vishal Mega Mart Website. 
 https://stores.vishalmegamart.com/ or https://stores.vishalmegamart.com/?page=1 
 There are a of total 21 pages on Vishal Mega Mart website containing details of 559 stores. 
 We will scrap them one by one.
-The full process is divided into five Parts.
+## The full process is divided into five Parts.
 1.	We will use Postman to create a Request code for us to web scrap data. Postman is an API Platform for developers to design, build, test and iterate their APIs.
 2.	We will Copy this Request code and use it in Jupyter Notebook or any other IDE for web scraping the webpage.
 3.	We will inspect the website to get the html tag details of the element containing the desired information.
@@ -32,7 +32,7 @@ We will use Postman to create a request code for us to web scrap data.
 
 This is our Request code. We will Copy this code and use it in Jupyter Notebook or any other ide for web scraping.
 
-Jupyter Notebook
+## Jupyter Notebook
  ![image](https://user-images.githubusercontent.com/93968656/230279852-8b6131ff-c5b8-47f1-bf00-63b5bd2129a8.png)
 
 
@@ -45,7 +45,7 @@ We are also using Beautifulsoup for scraping and Pandas for data manipulation pu
  ![image](https://user-images.githubusercontent.com/93968656/230279902-bb27602b-de64-4331-b3e5-f759dda793c5.png)
 
 Object of Beautifulsoup on a subset data.
-•	Store Name
+## •	Store Name
 
 First, we will inspect the website to get the html tag details of the element containing the Store Name.
  ![image](https://user-images.githubusercontent.com/93968656/230279966-8c95708c-14cd-4ff2-af55-8329b673c58f.png)
@@ -57,31 +57,31 @@ Now use the class name we find to extract the store name from the website.
  ![image](https://user-images.githubusercontent.com/93968656/230279990-a3989ec9-831e-4d5d-b70a-5bef9e473125.png)
 
 Similar steps will be followed to extract the Timing, Full Address, Phone no. etc…
-•	Timing
+## •	Timing
 ![image](https://user-images.githubusercontent.com/93968656/230280011-b598d714-88f5-404a-8439-c4c8f54a5e61.png)
 ![image](https://user-images.githubusercontent.com/93968656/230280020-a912c9e3-ad66-46ce-86f0-72a46e398952.png)
 ![image](https://user-images.githubusercontent.com/93968656/230280041-093dae87-e088-47ad-b1c4-80ad28991af7.png)
 
 
-•	Phone
+## •	Phone
  ![image](https://user-images.githubusercontent.com/93968656/230280103-fa7cb289-1c19-416e-9082-122bcaeb0cc4.png)
 ![image](https://user-images.githubusercontent.com/93968656/230280115-3424fded-da15-4708-88d1-e6700c752e2b.png)
 ![image](https://user-images.githubusercontent.com/93968656/230280134-925117ee-1367-4faa-9460-1dfa4ea836f0.png)
 
 
-•	Full Address
+## •	Full Address
  ![image](https://user-images.githubusercontent.com/93968656/230280154-4c0cf98e-53bf-4c7b-9a4c-5b927fb15a5a.png)
 ![image](https://user-images.githubusercontent.com/93968656/230280175-43d6da1b-dc33-43da-b870-35ad7546435a.png)
 ![image](https://user-images.githubusercontent.com/93968656/230280198-720e9690-3c82-4638-b4e0-fb0e882c19d9.png)
 
  
-•	City Name
+## •	City Name
  ![image](https://user-images.githubusercontent.com/93968656/230280218-03d980c2-dac9-4e42-b4c1-3001518d4828.png)
 ![image](https://user-images.githubusercontent.com/93968656/230280238-e60cb81e-7b71-4c9a-8bfb-09314af96c51.png)
 ![image](https://user-images.githubusercontent.com/93968656/230280249-66888bd8-b584-4037-9645-69479101fbf6.png)
 
 
-•	Coordinates
+## •	Coordinates
  ![image](https://user-images.githubusercontent.com/93968656/230280266-1952df84-6868-46fb-8b64-d2d0cc38aa6c.png)
 ![image](https://user-images.githubusercontent.com/93968656/230280278-80883eca-7516-4dfe-a425-7f46de0c63aa.png)
 ![image](https://user-images.githubusercontent.com/93968656/230280291-d21f467a-1695-410e-a052-69f58adeb14c.png)
